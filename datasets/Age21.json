@@ -1,0 +1,609 @@
+[
+    {
+        "Age": 21,
+        "Input Text": "I feel anxious about my career prospects after graduation.",
+        "Output Response": "Its completely normal to feel that way. Take it one step at a time. Focus on gaining experience and building connections that will help guide your path."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I manage the pressure of deciding my future?",
+        "Output Response": "Focus on what excites you. Take the time to explore different fields, and remember that its okay to change your mind along the way."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like I should be more financially independent.",
+        "Output Response": "Financial independence is a process. Start by setting small goals, budgeting, and learning about managing money. Every step counts."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im feeling lost about what direction to take in my life.",
+        "Output Response": "Its okay to feel lost sometimes. Reflect on what you value most—whether it's creativity, stability, or personal growth—and consider how that could inform your next steps."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im scared of failure as I start my career.",
+        "Output Response": "Failure isnt the end—its part of the journey. Use it as a learning opportunity to grow and improve. Every successful person has faced setbacks."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stay motivated when everything feels uncertain?",
+        "Output Response": "Focus on small, actionable steps. Break down your goals and celebrate even the smallest victories to build momentum."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im struggling to balance work and personal life.",
+        "Output Response": "Setting clear boundaries and prioritizing your time can help. Make sure you schedule time for yourself to recharge and connect with loved ones."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im feeling lonely even though I have friends.",
+        "Output Response": "Loneliness can happen even in social settings. Try opening up more about how youre feeling with your friends—it can bring you closer."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I deal with the pressure of being successful right away?",
+        "Output Response": "Success doesnt have a set timeline. Focus on your growth and development, and remember that its okay to take time to figure things out."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stop overthinking every decision I make?",
+        "Output Response": "Try to make decisions based on your values and priorities. Trust yourself, and remind yourself that most decisions arent permanent."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel overwhelmed with all the responsibilities I have right now.",
+        "Output Response": "Take a deep breath. Start by prioritizing your responsibilities. Break down tasks into manageable steps and dont hesitate to ask for support when needed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im unsure how to build professional relationships.",
+        "Output Response": "Building relationships takes time. Start by being genuine, listening actively, and showing interest in others perspectives and experiences."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I stay grounded while navigating my career path?",
+        "Output Response": "Stay true to your values, and set boundaries that align with your goals. Regularly reassess where youre headed and how youre feeling along the way."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im feeling like Im not living up to my potential.",
+        "Output Response": "Remember, potential is about growth and learning. Youre on your path, and every challenge is helping you become the person you're meant to be."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel pressured to have everything figured out by now.",
+        "Output Response": "Take the pressure off yourself. Life is a series of explorations, and its okay not to have everything figured out. Focus on what you can control."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I build confidence when I'm feeling insecure?",
+        "Output Response": "Confidence comes from accepting and celebrating who you are. Take small actions that align with your values, and surround yourself with people who lift you up."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I manage stress while working and studying?",
+        "Output Response": "Stress management is key. Break tasks into manageable chunks, practice relaxation techniques, and ensure youre taking breaks to rest and recharge."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I make sure Im choosing the right career path?",
+        "Output Response": "Reflect on what excites you and aligns with your strengths. Talk to people in the field, try internships, and remember that your path may evolve."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not good enough for the opportunities I'm getting.",
+        "Output Response": "Remember, youre worthy of the opportunities that come your way. Trust your abilities and take each step with the knowledge that youre learning and growing."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I struggle with finding balance between work and social life.",
+        "Output Response": "Set clear priorities and create boundaries to protect your personal time. It's important to nurture relationships while maintaining focus on your goals."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel anxious when I have to make big decisions.",
+        "Output Response": "Take your time. When making big decisions, list out your options, weigh the pros and cons, and trust that you can handle the outcome."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I build resilience in my personal and professional life?",
+        "Output Response": "Resilience grows with experience. Stay adaptable, learn from challenges, and remember that setbacks are just opportunities to grow."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im feeling uncertain about my future after graduation.",
+        "Output Response": "The future is full of possibilities. Trust yourself to make informed choices, and be open to unexpected opportunities that come your way."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I dont know how to manage my time between studying and having fun.",
+        "Output Response": "Time management is all about balance. Create a flexible schedule, make time for both work and relaxation, and allow yourself to enjoy life."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with imposter syndrome?",
+        "Output Response": "Imposter syndrome is common, especially when you're growing. Remember that you belong, and trust in the skills and abilities youve developed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel overwhelmed by all the decisions I need to make in my life.",
+        "Output Response": "Take things one at a time. Break big decisions down into smaller steps, and trust that youre doing the best you can with the information you have."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im struggling to stay motivated with my long-term goals.",
+        "Output Response": "Long-term goals can feel distant, but breaking them into smaller, achievable steps can help keep you motivated along the way."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I know if Im ready for a serious relationship?",
+        "Output Response": "A serious relationship requires emotional maturity and communication. Reflect on your own goals, needs, and if youre ready to support another persons growth."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I handle financial stress as a college student?",
+        "Output Response": "Create a budget to track your spending and prioritize necessities. Look for ways to earn extra income, and dont hesitate to seek financial advice if needed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like I dont have enough time for my hobbies anymore.",
+        "Output Response": "Its important to make time for things you enjoy. Schedule your hobbies in your calendar as a non-negotiable activity to ensure you prioritize them."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel guilty for not being more involved in social activities.",
+        "Output Response": "Its okay to prioritize self-care. Balance is key, so make sure you're meeting your personal needs before committing to social obligations."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I create a network that will help my career?",
+        "Output Response": "Start by attending events, reaching out to professionals you admire, and offering help where you can. Networking is about building genuine connections."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im constantly worried about the future and my career.",
+        "Output Response": "Its natural to worry, but try to focus on the present. Take small, proactive steps towards your career goals and trust that the future will unfold."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not good at balancing my personal life with my studies.",
+        "Output Response": "Create boundaries for both your personal and academic life. A well-structured schedule can help you make time for both without feeling overwhelmed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I find the right work-life balance as I begin my career?",
+        "Output Response": "Its all about boundaries. Make time for work, but also ensure you have time for rest and personal activities. Your well-being is essential for long-term success."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stay focused when distractions are everywhere?",
+        "Output Response": "Minimize distractions by setting specific work hours, creating a quiet workspace, and using productivity techniques like the Pomodoro method to stay focused."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel anxious about failing my exams.",
+        "Output Response": "Focus on preparing the best you can. Break your study sessions into smaller chunks, and remember that your effort is what truly matters."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I manage the stress of job interviews?",
+        "Output Response": "Practice beforehand, focus on your strengths, and remember that interviews are just a chance for both you and the employer to see if its a good fit."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im afraid Ill never achieve my career goals.",
+        "Output Response": "Career paths are rarely linear. Keep working toward your goals, but allow room for flexibility as new opportunities arise."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I handle conflict with my colleagues at work?",
+        "Output Response": "Stay calm and listen to their perspective. Approach the conversation with empathy and respect to resolve conflicts in a way that strengthens relationships."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel pressure to meet my familys expectations.",
+        "Output Response": "While its important to respect your family, your life is yours to live. Its okay to set boundaries and pursue what truly makes you happy."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I stop doubting my abilities?",
+        "Output Response": "Doubt is natural, but it doesnt define you. Focus on your accomplishments and continue developing your skills. Self-belief comes with practice."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not getting enough out of my education.",
+        "Output Response": "Take charge of your learning by seeking out additional resources and opportunities. Engage more with professors, participate in discussions, and apply your learning in real-life scenarios."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stop feeling overwhelmed by my responsibilities?",
+        "Output Response": "Take a step back and prioritize your tasks. Break them into smaller, more manageable pieces, and give yourself permission to rest when needed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im unsure whether I should take a gap year after graduation.",
+        "Output Response": "A gap year can provide valuable experiences, but consider your goals and how it aligns with your personal and professional development."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I set realistic goals for my future?",
+        "Output Response": "Start by defining what success looks like to you. Break your larger goals into smaller, measurable steps that align with your values and timeline."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel unsure about my career choice.",
+        "Output Response": "Its okay to question your path. Seek advice, gain more experience, and explore different options to see what truly resonates with you."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with the stress of post-graduation uncertainty?",
+        "Output Response": "Focus on what you can control, such as building skills, networking, and staying adaptable. Trust that opportunities will come with time."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not getting enough support from my friends.",
+        "Output Response": "Reach out to your friends and communicate how youre feeling. True friends will want to support you, and sometimes they just need to be asked."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I balance pursuing my passion and a stable career?",
+        "Output Response": "Its all about balance. Consider how you can incorporate your passions into your career or personal life, even if theyre not your primary focus."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I manage expectations when Im starting my career?",
+        "Output Response": "Set realistic expectations for yourself. Recognize that growth takes time and that mistakes are part of the learning process."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im losing my sense of purpose.",
+        "Output Response": "Its okay to feel uncertain at times. Reflect on your passions, values, and strengths. Exploring new things can help reignite your sense of purpose."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I become more confident in social situations?",
+        "Output Response": "Confidence grows through practice. Start small by engaging in conversations and focusing on positive interactions. The more you practice, the easier it will become."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not good enough for the job I have.",
+        "Output Response": "Imposter syndrome is normal, especially when youre learning. Trust in your abilities and remember that you were chosen for the role for a reason."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stop procrastinating on important tasks?",
+        "Output Response": "Break tasks into smaller chunks and set deadlines for each part. Starting is often the hardest part, so try to focus on just getting started."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel disconnected from my family since moving away for college.",
+        "Output Response": "Distance can make it hard to stay connected. Schedule regular calls or visits to maintain the bond, and share your experiences with them to stay involved in each others lives."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I navigate changes in my friendships after graduation?",
+        "Output Response": "Friendships evolve over time. Some might grow stronger, while others may fade. Stay open to new connections, but value the ones that remain strong."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel lost and uncertain about what to do after graduation.",
+        "Output Response": "Take it one step at a time. Explore options through internships or part-time work, and use this time to find what excites you most."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I dont know how to prioritize my goals for the future.",
+        "Output Response": "Start by focusing on whats most important to you. Reflect on your values and set goals that align with them. Its okay to adjust your path as you go."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stay positive during tough times?",
+        "Output Response": "Focus on what you can control and practice gratitude. Remind yourself that challenges are temporary, and you have the strength to get through them."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im not sure if I should go to grad school.",
+        "Output Response": "Consider what grad school will provide in terms of your long-term goals. Research programs, talk to mentors, and think about whether it aligns with where you want to be in the future."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I manage my time better between school and work?",
+        "Output Response": "Create a schedule with dedicated blocks of time for both school and work. Prioritize the most urgent tasks, and be sure to include breaks to avoid burnout."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel anxious about making the right career choice.",
+        "Output Response": "Its okay to be uncertain. Career paths arent always linear. Try different things, talk to people in various fields, and trust that the right opportunities will emerge."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I overcome self-doubt in my academic abilities?",
+        "Output Response": "Remember, everyone faces self-doubt. Focus on your achievements and progress, and give yourself credit for how far youve come."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not living up to my potential.",
+        "Output Response": "Dont measure your progress against others. Focus on personal growth and celebrate the small steps. You are growing and evolving in your own time."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stop worrying about what others think of me?",
+        "Output Response": "Focus on being true to yourself. The opinions of others dont define your worth. Trust your own judgment and embrace your unique qualities."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im stuck in a rut.",
+        "Output Response": "It might be time for a change. Try something new, whether it's a hobby, a new routine, or setting a new personal challenge. Small changes can lead to big transformations."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with the stress of job searching?",
+        "Output Response": "Job searching can be stressful, but stay persistent. Update your resume, network, and keep applying. Remember, the right opportunity will come at the right time."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I improve my self-esteem?",
+        "Output Response": "Start by recognizing and celebrating your strengths. Practice self-compassion, and surround yourself with people who uplift you."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel overwhelmed by everything I have to do.",
+        "Output Response": "Take a step back and prioritize. Break tasks down into manageable steps, and focus on one thing at a time. Don't forget to give yourself breaks."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I set better personal boundaries?",
+        "Output Response": "Setting boundaries is a form of self-respect. Be clear about your needs, communicate them calmly, and don't feel guilty for protecting your time and energy."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im failing at managing my time.",
+        "Output Response": "Time management takes practice. Start by organizing your tasks, setting goals, and breaking them into smaller steps. Give yourself grace as you improve."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stop comparing myself to others?",
+        "Output Response": "Comparison steals your joy. Focus on your journey and your growth. Celebrate your own progress, no matter how small."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel anxious about the future, especially regarding my career.",
+        "Output Response": "The future is always uncertain, but you can take control of the present. Focus on building skills, networking, and being open to new opportunities."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stay motivated when I feel like giving up?",
+        "Output Response": "When you feel like giving up, remember why you started. Break tasks into smaller pieces and take it one step at a time. Reach out for support when needed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im feeling lost with my career path after graduation.",
+        "Output Response": "Its normal to feel uncertain. Take the time to explore different options, talk to people in various fields, and keep an open mind about the future."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with the pressure of living up to expectations?",
+        "Output Response": "Remember, its okay to set your own goals. Dont let external expectations define your success. Focus on what makes you happy and fulfilled."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I stay positive when everything seems to be going wrong?",
+        "Output Response": "Its hard, but try focusing on small victories and moments of joy. Even during tough times, theres always something to be thankful for."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im struggling to make new friends after moving to a new city.",
+        "Output Response": "It takes time to build new connections. Join clubs, attend events, or take up hobbies where you can meet like-minded people. Its okay to take it slow."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I find a balance between school, work, and social life?",
+        "Output Response": "Its all about managing your time. Create a schedule that includes all your priorities and dont forget to carve out time for yourself."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im worried Im not living up to my potential.",
+        "Output Response": "Its easy to feel that way, but remember that everyones journey is different. Focus on progress, not perfection, and celebrate your achievements along the way."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I stay confident during a job interview?",
+        "Output Response": "Preparation is key. Research the company, practice your answers, and remind yourself of your strengths. Confidence comes from knowing youre prepared."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with the uncertainty of the future after graduation?",
+        "Output Response": "Take it one day at a time. Explore your options, and remember that its okay to change paths as you learn more about yourself and the world around you."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not good enough to pursue my dreams.",
+        "Output Response": "Everyone has doubts, but your dreams are valid. Start small, take one step at a time, and youll gain more confidence as you move forward."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I cope with feeling overwhelmed by my responsibilities?",
+        "Output Response": "When you feel overwhelmed, take a step back. Break tasks into smaller, manageable steps, and prioritize what needs to be done first."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im having trouble finding the motivation to study.",
+        "Output Response": "Try setting small goals and rewarding yourself once you achieve them. Make your study environment enjoyable to help boost motivation."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I handle negative feedback at work or school?",
+        "Output Response": "Take a moment to reflect on the feedback without taking it personally. Use it as an opportunity to learn and grow, and remember that everyone faces criticism."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not as successful as my peers.",
+        "Output Response": "Everyones path is different. Focus on your own journey, and remember that success isnt always measured by external achievements."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I manage the stress of job hunting?",
+        "Output Response": "Job hunting can be stressful, but dont let it take over your life. Set aside time for relaxation, and dont hesitate to reach out for support when needed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like I dont have enough time for myself.",
+        "Output Response": "Its important to carve out personal time. Even just a few minutes of quiet time can help you recharge and manage your responsibilities better."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I stay motivated when the progress is slow?",
+        "Output Response": "Remember that progress, no matter how small, is still progress. Celebrate the little wins along the way to keep your momentum going."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with feeling like Im falling behind?",
+        "Output Response": "Youre not falling behind; youre on your own timeline. Focus on your own growth and dont compare your progress to others."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not sure about my passions anymore.",
+        "Output Response": "Its normal for passions to evolve. Take some time to explore new interests, and dont rush yourself to have everything figured out."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I stop feeling anxious about my future?",
+        "Output Response": "Try to stay present. Focus on what you can control right now, and take small steps toward your goals. Trust that things will come together in time."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im struggling with imposter syndrome at work.",
+        "Output Response": "Imposter syndrome is common, but it doesnt reflect your abilities. Remind yourself of your accomplishments and remember that you earned your place."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I balance my personal and academic life?",
+        "Output Response": "Create a structured schedule that allows you to dedicate time to both. Its important to take breaks and focus on self-care as well."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I manage stress before an exam?",
+        "Output Response": "Focus on the preparation youve done and trust in your ability. Take deep breaths, and give yourself time to relax before the exam to calm your nerves."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel disconnected from my friends since Ive started my internship.",
+        "Output Response": "Its normal for relationships to shift when life changes. Stay in touch with your friends and make time for them when possible. Theyll understand."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel anxious about making the right choices in my career.",
+        "Output Response": "Its okay to be uncertain. Career paths arent always linear. Trust in your ability to adapt and keep exploring until you find the right fit."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with stress about my grades?",
+        "Output Response": "Grades are important, but they dont define you. Focus on doing your best and remember that its okay to not be perfect. Take care of your mental health too."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im struggling to find motivation after a failure.",
+        "Output Response": "Failure is part of the journey. Use it as a lesson and try again. Every setback is an opportunity to learn and grow stronger."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I stop stressing about things I cant control?",
+        "Output Response": "Focus on what you can control and let go of the rest. Practice mindfulness or meditation to help stay present and manage anxiety."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like I dont have enough time to pursue my passions.",
+        "Output Response": "Its about balance. Set aside time each week, even if its just a little, to invest in what you love. You dont have to do everything at once."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im feeling overwhelmed with the transition into adult life.",
+        "Output Response": "Its a big change, and its okay to feel overwhelmed. Break down your goals into manageable steps, and remember you dont have to have everything figured out right away."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I build a network when I dont know anyone in my field?",
+        "Output Response": "Start by attending industry events, joining online communities, or reaching out to people on LinkedIn. Networking is about building genuine connections, not just contacts."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not good at handling stress.",
+        "Output Response": "Stress management is a skill that can be developed. Try relaxation techniques like deep breathing or exercise, and dont hesitate to seek support when needed."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im struggling to balance my part-time job and my classes.",
+        "Output Response": "Its tough, but try to set clear boundaries for both. Make a schedule that allows you to prioritize important tasks while also carving out time for yourself."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I deal with being homesick after moving away for school?",
+        "Output Response": "Homesickness is normal, but its important to create new routines and connect with others. Stay in touch with your family, but also make time to build your own community."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel anxious about my future after college.",
+        "Output Response": "The future can feel overwhelming, but focus on what you can do today. Take small steps toward your goals, and trust that opportunities will come as you continue to grow."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im wasting time in my current job.",
+        "Output Response": "If you feel unfulfilled, consider exploring new opportunities or gaining additional skills to open up different career paths. Its okay to reassess and pivot when necessary."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im struggling to find balance between personal life and work.",
+        "Output Response": "Establish boundaries that allow you to disconnect from work. Its important to take time for yourself and nurture your relationships outside of work."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im behind in life compared to my friends.",
+        "Output Response": "Everyone moves at their own pace, and thats okay. Focus on your journey, and remember that success is personal and doesnt happen on a set timeline."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I handle job rejection without feeling discouraged?",
+        "Output Response": "Rejection is tough, but dont take it personally. Use it as a learning experience to improve and keep applying. The right opportunity is still out there."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel overwhelmed by all the decisions I need to make for my future.",
+        "Output Response": "Take things one step at a time. Write down your options, weigh the pros and cons, and allow yourself time to reflect before making big decisions."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How can I stay confident when I dont know what Im doing?",
+        "Output Response": "Confidence comes from experience and learning as you go. Trust that youll figure it out and that its okay not to have all the answers right now."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not as driven as I should be.",
+        "Output Response": "Motivation can fluctuate. Try setting small, achievable goals to get started. Once you see progress, it will help build your momentum."
+    },
+    {
+        "Age": 21,
+        "Input Text": "Im worried Ill never find a career I truly enjoy.",
+        "Output Response": "It may take time to discover the perfect fit, but keep exploring different opportunities. Passion often develops as you gain more experience in a field."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I overcome self-doubt in my academic abilities?",
+        "Output Response": "Everyone experiences self-doubt. Remember your accomplishments and the hard work youve put in. Give yourself credit for how far youve come."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel disconnected from my friends now that were all so busy.",
+        "Output Response": "Its common for friendships to shift as life gets busier. Make an effort to schedule time together and be understanding of each others schedules."
+    },
+    {
+        "Age": 21,
+        "Input Text": "I feel like Im not achieving as much as I should be.",
+        "Output Response": "Progress takes time, and its okay to not have everything figured out. Celebrate the small victories, and trust that your efforts will pay off."
+    },
+    {
+        "Age": 21,
+        "Input Text": "How do I handle the uncertainty of not knowing what to do after graduation?",
+        "Output Response": "Its okay to not have a clear path. Take the time to explore, try new things, and use your resources to help you discover what truly excites you."
+    }
+]
+
+    

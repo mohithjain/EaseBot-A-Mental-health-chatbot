@@ -1,0 +1,46 @@
+[
+    {
+        "name": "mohith",
+        "age": "20",
+        "occupation": "student",
+        "mood": "8",
+        "stress": "9",
+        "sleep": "9",
+        "social": "5",
+        "support": "yesa",
+        "mood_trends": "no"
+    },
+    {
+        "name": "manvi",
+        "age": "21",
+        "occupation": "student",
+        "mood": "5",
+        "stress": "9",
+        "sleep": "2",
+        "social": "1",
+        "support": "yes",
+        "mood_trends": "yes"
+    },
+    {
+        "name": "Manvi",
+        "age": "21",
+        "occupation": "Student",
+        "mood": "6",
+        "stress": "9",
+        "sleep": "2",
+        "social": "3",
+        "support": "yes",
+        "mood_trends": "yes"
+    },
+    {
+        "name": "riya",
+        "age": "21",
+        "occupation": "Intern",
+        "mood": "6",
+        "stress": "9",
+        "sleep": "4",
+        "social": "3",
+        "support": "yes",
+        "mood_trends": "yes"
+    }
+]

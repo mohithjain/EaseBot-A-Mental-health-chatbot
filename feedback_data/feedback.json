@@ -1,0 +1,27 @@
+[
+    {
+        "input_text": "How are you?",
+        "response_text": "I'm doing well, thank you for asking!",
+        "feedback_score": 5
+    },
+    {
+        "input_text": "What's the weather like?",
+        "response_text": "It's sunny and warm today!",
+        "feedback_score": 4
+    },
+    {
+        "input_text": "Tell me a joke.",
+        "response_text": "Why don't skeletons fight each other? They don't have the guts!",
+        "feedback_score": 5
+    },
+    {
+        "input_text": "What is the capital of France?",
+        "response_text": "The capital of France is Paris.",
+        "feedback_score": 4
+    },
+    {
+        "input_text": "Can you help me with my homework?",
+        "response_text": "Of course! What subject is it in?",
+        "feedback_score": 5
+    }
+]

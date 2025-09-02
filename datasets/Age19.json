@@ -1,0 +1,302 @@
+[
+    {
+        "Age": 19,
+        "Input Text": "I'm feeling overwhelmed with exams.",
+        "Output Response": "I understand how stressful exams can be. Try breaking your study sessions into smaller, focused blocks and take regular breaks to relax."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel anxious about making friends at college.",
+        "Output Response": "It's normal to feel that way in a new environment. Start by joining clubs or activities where you can meet people with similar interests."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I dont feel motivated to study anymore. What should I do?",
+        "Output Response": "It's okay to feel unmotivated sometimes. Try setting smaller goals and rewarding yourself for completing them. This can help reignite your focus."
+    },
+    {
+        "Age": 19,
+        "Input Text": "My parents expect too much from me academically.",
+        "Output Response": "It can be hard to meet expectations. Have an honest conversation with them about how youre feeling and what you realistically can do."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like Im not as smart as my classmates.",
+        "Output Response": "It's natural to compare yourself, but everyone learns differently. Focus on your strengths and work at your own pace."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel lonely and isolated at college.",
+        "Output Response": "Loneliness can be tough. Joining a study group or extracurricular activity can help you connect with people and build friendships."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How can I stop procrastinating on assignments?",
+        "Output Response": "Start by breaking the assignment into smaller tasks and setting short deadlines for each. This makes it feel less overwhelming."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like Im always stressed and tired.",
+        "Output Response": "Chronic stress can take a toll. Make sure youre getting enough rest, eating well, and incorporating relaxation techniques into your routine."
+    },
+    {
+        "Age": 19,
+        "Input Text": "What can I do to feel more confident in class discussions?",
+        "Output Response": "Prepare ahead of time by reading up on the topic. Start by sharing small thoughts, and with practice, your confidence will grow."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I have a fear of public speaking.",
+        "Output Response": "Public speaking can be nerve-wracking. Practice in front of friends or a mirror, and remind yourself that its okay to make mistakes."
+    },
+    {
+        "Age": 19,
+        "Input Text": "Im afraid of failing my exams.",
+        "Output Response": "Fear of failure is common, but its important to focus on effort rather than the outcome. Review consistently and ask for help if needed."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel homesick. How do I deal with it?",
+        "Output Response": "Homesickness is natural. Stay in touch with loved ones and try to create a comforting routine in your current environment."
+    },
+    {
+        "Age": 19,
+        "Input Text": "Im finding it hard to balance my studies and personal life.",
+        "Output Response": "Balance takes practice. Prioritize your tasks and schedule time for yourself to relax and spend with friends."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like my teachers are too critical.",
+        "Output Response": "It can be tough to handle criticism. Try to see it as a chance to improve, and dont hesitate to ask for clarification or guidance."
+    },
+    {
+        "Age": 19,
+        "Input Text": "Im struggling with time management.",
+        "Output Response": "Time management is a skill. Use a planner or app to schedule your tasks, and make sure to include breaks."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I deal with exam anxiety?",
+        "Output Response": "Try relaxation techniques like deep breathing or visualization before your exam. Practice with past papers to build confidence."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I keep getting distracted while studying.",
+        "Output Response": "Create a distraction-free environment and set a timer to work in focused intervals, like the Pomodoro technique."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I dont belong here.",
+        "Output Response": "Youre not alone in feeling that way. Remember, youre here for a reason, and with time, youll find your place."
+    },
+    {
+        "Age": 19,
+        "Input Text": "What should I do if I feel burnt out from studying?",
+        "Output Response": "Burnout is a sign to take a break. Step away, do something you enjoy, and return to studying with a fresh mindset."
+    },
+    {
+        "Age": 19,
+        "Input Text": "Im scared of asking questions in class.",
+        "Output Response": "Its okay to feel nervous. Start by asking questions after class or in smaller group settings to build your confidence."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m constantly comparing myself to others.",
+        "Output Response": "It’s natural to compare, but remember everyone has their own journey. Focus on your progress and what makes you unique."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I make sure I don’t forget what I study?",
+        "Output Response": "Review regularly and try techniques like teaching the material to someone else or summarizing in your own words."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m worried about how I’ll handle college life next semester.",
+        "Output Response": "Take it one step at a time. Prepare for the changes, set realistic expectations, and build a support system."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m nervous about joining a new club or activity.",
+        "Output Response": "Joining new activities can be intimidating, but they’re also great for growth. Start with something you’re genuinely interested in."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I manage a heavy workload without burning out?",
+        "Output Response": "Prioritize tasks, take regular breaks, and don’t hesitate to delegate or ask for help when needed."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m losing touch with my high school friends.",
+        "Output Response": "Maintaining friendships can be hard during transitions. Reach out to them and try to schedule time for catch-ups, even virtually."
+    },
+    {
+        "Age": 19,
+        "Input Text": "What should I do if I don’t like my college major?",
+        "Output Response": "It’s okay to reconsider your choices. Talk to an advisor or explore courses in other areas that interest you."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m afraid I won’t live up to my potential.",
+        "Output Response": "Focus on the present and take small, consistent steps toward your goals. Growth takes time, and it’s okay to pace yourself."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I deal with a roommate I don’t get along with?",
+        "Output Response": "Open communication is key. Talk about your concerns calmly and set boundaries to make shared living more comfortable."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I don’t have time for hobbies anymore.",
+        "Output Response": "Hobbies are important for balance. Try to dedicate even 15 minutes a day to something you enjoy—it can make a big difference."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m scared of failing my first semester.",
+        "Output Response": "It’s okay to feel this way. Focus on staying organized and seeking help early if you’re struggling with any subject."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I deal with peer pressure at college?",
+        "Output Response": "Stay true to your values and set boundaries. It’s okay to say no and choose what feels right for you."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m not good at making decisions.",
+        "Output Response": "Decision-making is a skill that improves with practice. Start with smaller choices, and remember, it’s okay to seek advice."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I stay focused during long study sessions?",
+        "Output Response": "Break them into shorter sessions, use techniques like the Pomodoro method, and reward yourself after completing each block."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m struggling to wake up early for classes.",
+        "Output Response": "Try going to bed at a consistent time and gradually setting your alarm earlier. Avoid screens before sleeping to improve rest."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m losing interest in my classes.",
+        "Output Response": "It’s normal to feel disengaged sometimes. Try to connect the material to real-world applications or discuss your feelings with your instructor."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I manage stress before a big exam?",
+        "Output Response": "Prepare in advance, practice relaxation techniques, and remind yourself that you’ve done your best to prepare."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m scared of speaking up in group projects.",
+        "Output Response": "Start by contributing small ideas. With practice, you’ll feel more confident about sharing your thoughts with the group."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I handle rejection when applying for opportunities?",
+        "Output Response": "Rejection is part of growth. Learn from the experience and use it to improve for your next opportunity—it’s not the end of the road."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m not productive enough.",
+        "Output Response": "Productivity isn’t about doing everything at once. Focus on completing one thing at a time and celebrate each accomplishment."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel guilty for taking breaks while studying.",
+        "Output Response": "Breaks are essential for productivity. Think of them as recharging your brain, not wasting time."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m unsure if I should join extracurricular activities.",
+        "Output Response": "Extracurriculars are great for meeting people and exploring interests. Try something you’re curious about—it could be fun and rewarding!"
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I deal with a bad grade on an important assignment?",
+        "Output Response": "A bad grade doesn’t define your abilities. Reflect on what you can improve, and use this as a learning experience for the future."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I don’t have control over my schedule.",
+        "Output Response": "Start by prioritizing tasks and setting boundaries. Using a planner or scheduling app can help you take control of your time."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m afraid of disappointing my family.",
+        "Output Response": "Family expectations can be tough. Remember, your journey is unique, and open communication about your feelings can ease the pressure."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I deal with conflicts in my friend group?",
+        "Output Response": "Conflicts are normal. Try to listen to everyone’s perspective and find a solution that respects everyone’s feelings."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m always rushing to meet deadlines.",
+        "Output Response": "Time management can help reduce the rush. Break your tasks into smaller chunks and work on them consistently over time."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How can I stop overthinking about my mistakes?",
+        "Output Response": "Everyone makes mistakes—it’s part of growth. Focus on what you can learn and practice self-compassion."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m not good enough for my major.",
+        "Output Response": "Doubts are common. Remind yourself why you chose your major and seek support from professors or peers to build confidence."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I make my long-distance relationship work?",
+        "Output Response": "Communication and trust are key in long-distance relationships. Schedule regular calls and find creative ways to stay connected."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m too shy to meet new people.",
+        "Output Response": "Shyness is okay. Start with small conversations, like saying hi to someone in class or joining a group activity."
+    },
+    {
+        "Age": 19,
+        "Input Text": "What should I do if I feel like I’m in a toxic friendship?",
+        "Output Response": "Toxic relationships can be draining. Reflect on the dynamic, set boundaries, and consider distancing yourself if it’s unhealthy."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m stuck in a routine.",
+        "Output Response": "Try shaking things up by exploring new hobbies, taking a different route to class, or meeting new people."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How can I improve my concentration while studying?",
+        "Output Response": "Limit distractions, study in a quiet space, and use techniques like active recall or the Pomodoro method to stay focused."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m not making enough progress in my goals.",
+        "Output Response": "Progress takes time. Break your goals into smaller steps and celebrate each milestone, no matter how small."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I’m scared about choosing the wrong career path.",
+        "Output Response": "It’s okay to feel uncertain. Explore your interests through internships or informational interviews to get a better sense of what suits you."
+    },
+    {
+        "Age": 19,
+        "Input Text": "How do I stay positive when things feel overwhelming?",
+        "Output Response": "Focus on what you can control, practice gratitude for small wins, and reach out to someone you trust for support."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I can’t handle all my responsibilities.",
+        "Output Response": "It’s okay to ask for help or delegate tasks. Prioritize what’s most important and tackle things one at a time."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like I’m not doing enough to succeed.",
+        "Output Response": "Success isn’t just about doing more; it’s about doing what matters. Reflect on your priorities and give yourself credit for your efforts."
+    },
+    {
+        "Age": 19,
+        "Input Text": "I feel like my mental health is affecting my studies.",
+        "Output Response": "Your mental health is important. Consider reaching out to a counselor or talking to someone you trust about how you’re feeling."
+    }
+]

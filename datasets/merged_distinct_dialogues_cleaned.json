@@ -1,0 +1,252 @@
+[
+    {
+        "category": "Depression",
+        "input": "I feel so empty inside. Nothing excites me anymore.",
+        "response": "I'm so sorry you're feeling this way. Sometimes, even small moments of joy can help. Have you tried doing something you used to love, even just a little?"
+    },
+    {
+        "category": "Depression",
+        "input": "I can't find the energy to do anything.",
+        "response": "That's okay. Some days are harder than others. How about starting with something really small, like getting some fresh air or listening to your favorite song?"
+    },
+    {
+        "category": "Depression",
+        "input": "Why does life feel so meaningless?",
+        "response": "I understand how heavy that can feel. You matter more than you realize. Do you want to talk about what's been on your mind lately?"
+    },
+    {
+        "category": "Depression",
+        "input": "No one cares about me. I'm all alone.",
+        "response": "You're not alone, and I care about you. Sometimes it's hard to see it, but there are people who love you deeply. Want to talk about what's making you feel this way?"
+    },
+    {
+        "category": "Depression",
+        "input": "I feel like crying all the time. Is that normal?",
+        "response": "Crying can be your body's way of releasing what's inside. It's okay to cry. I'm here if you want to share what's on your heart."
+    },
+    {
+        "category": "Anxiety",
+        "input": "I feel like my mind is running in circles.",
+        "response": "That sounds exhausting. Let's try a quick breathing exercise together to calm your thoughts. Are you up for that?"
+    },
+    {
+        "category": "Anxiety",
+        "input": "I can't sleep because I keep thinking about everything that could go wrong.",
+        "response": "It's tough when our minds won't quiet down. Maybe writing your thoughts in a journal could help. Would you like me to suggest some other techniques?"
+    },
+    {
+        "category": "Anxiety",
+        "input": "My heart starts racing whenever I think about my future.",
+        "response": "That sounds like anxiety taking over. Remember, you don't have to figure everything out all at once. Let's focus on one thing at a time."
+    },
+    {
+        "category": "Anxiety",
+        "input": "I feel so restless. I can't seem to sit still.",
+        "response": "It's okay to feel restless. Sometimes moving around or grounding yourself can help. Want me to guide you through that?"
+    },
+    {
+        "category": "Anxiety",
+        "input": "Everything feels like it's spiraling out of control.",
+        "response": "I know it feels overwhelming. Let's pause for a moment and focus on what you *can* control. How are you feeling right now?"
+    },
+    {
+        "category": "Academic Pressure",
+        "input": "I have so many deadlines, and I don't know where to start.",
+        "response": "That sounds overwhelming. Let's break it down into smaller tasks. What's one thing you could tackle right now?"
+    },
+    {
+        "category": "Academic Pressure",
+        "input": "I feel like I'm not smart enough for this course.",
+        "response": "You're capable of so much more than you think. Remember, everyone learns at their own pace. How about we talk through what's challenging you the most?"
+    },
+    {
+        "category": "Academic Pressure",
+        "input": "I keep comparing myself to others, and I feel like a failure.",
+        "response": "Comparing yourself to others can be tough. Focus on your own journey\u2014small wins matter. What's one thing you feel good about?"
+    },
+    {
+        "category": "Academic Pressure",
+        "input": "I study so much, but I still don't get good grades.",
+        "response": "You're putting in effort, and that's something to be proud of. Let's figure out together how you can improve your study routine."
+    },
+    {
+        "category": "Academic Pressure",
+        "input": "Balancing everything feels impossible.",
+        "response": "Balancing everything is hard. Prioritizing your tasks might help. Want me to guide you through making a plan?"
+    },
+    {
+        "category": "Relationship Stress",
+        "input": "My partner and I keep fighting, and it's exhausting.",
+        "response": "I'm sorry you're going through this. Relationships can be tough. Have you tried having an open and calm conversation about how you both feel?"
+    },
+    {
+        "category": "Relationship Stress",
+        "input": "I feel like my friend doesn't care about me anymore.",
+        "response": "Friendships change, and it's okay to feel hurt. Maybe reaching out to them and talking could help clear the air. Would you like to try that?"
+    },
+    {
+        "category": "Relationship Stress",
+        "input": "Relationships are so confusing; I don't know what to do.",
+        "response": "Relationships can be confusing. It's important to take a step back and understand your feelings. Do you want to talk more about it?"
+    },
+    {
+        "category": "Relationship Stress",
+        "input": "I'm scared I'll lose someone I care about.",
+        "response": "It's natural to feel scared of losing someone you care about. Focusing on positive moments might help strengthen your bond. Want to share what's worrying you?"
+    },
+    {
+        "category": "Relationship Stress",
+        "input": "Why is it so hard to understand people sometimes?",
+        "response": "Understanding people can be tricky. Patience and honest conversations often help. Let's think about how you could express your feelings better."
+    },
+    {
+        "category": "Family Pressure",
+        "input": "My parents expect so much from me, and I feel like I'm failing them.",
+        "response": "That sounds really hard to carry. You're doing your best, and that's enough. Have you thought about talking to them about how you feel?"
+    },
+    {
+        "category": "Family Pressure",
+        "input": "I don't think my family understands what I want in life.",
+        "response": "It's tough when you feel misunderstood. Let's brainstorm ways to help them see your perspective. What would you like them to understand about you?"
+    },
+    {
+        "category": "Family Pressure",
+        "input": "The pressure to make my family proud is overwhelming.",
+        "response": "Pressure can feel overwhelming. You're allowed to pursue your own path while respecting their wishes. Let's find a middle ground. What's your biggest concern?"
+    },
+    {
+        "category": "Family Pressure",
+        "input": "I can't seem to meet my family's expectations.",
+        "response": "Meeting expectations isn't easy. Remember, you're human, not perfect. How can I support you in handling their expectations?"
+    },
+    {
+        "category": "Family Pressure",
+        "input": "Sometimes, I feel like I'm living for them, not for me.",
+        "response": "Living for yourself is important. It's okay to set boundaries. Would you like help in expressing your thoughts to your family?"
+    },
+    {
+        "category": "Loneliness",
+        "input": "I feel like I have no one to talk to.",
+        "response": "That must feel so isolating. I'm here for you, and it's okay to feel this way. Have you thought about joining a group or community with similar interests?"
+    },
+    {
+        "category": "Loneliness",
+        "input": "I've been so alone lately. It's hard to deal with.",
+        "response": "Feeling alone is hard. Reaching out to someone you trust, even a little, can help. Want to talk more about it?"
+    },
+    {
+        "category": "Loneliness",
+        "input": "No one understands what I'm going through.",
+        "response": "Sometimes, sharing your feelings can make a difference. You're not invisible to me. What's on your mind?"
+    },
+    {
+        "category": "Loneliness",
+        "input": "I feel invisible, like no one notices me.",
+        "response": "You belong, even if it doesn't feel like it now. Finding people who share your passions might help. Want me to suggest ideas?"
+    },
+    {
+        "category": "Loneliness",
+        "input": "Why does it feel like I don't belong anywhere?",
+        "response": "Loneliness can feel heavy. Taking small steps, like smiling at someone or saying hello, can open new doors. What do you think?"
+    },
+    {
+        "category": "Trauma",
+        "input": "I can't stop thinking about something bad that happened.",
+        "response": "I'm so sorry you're experiencing this. Healing takes time, and I'm here for you. Would sharing your feelings help?"
+    },
+    {
+        "category": "Trauma",
+        "input": "I keep having flashbacks. They're so vivid.",
+        "response": "Flashbacks can be really intense. Grounding techniques, like focusing on your surroundings, might help. Would you like me to guide you?"
+    },
+    {
+        "category": "Trauma",
+        "input": "I feel like my past is haunting me.",
+        "response": "Your past doesn't define your future. It's brave of you to face it. Let's take it one step at a time. How can I support you?"
+    },
+    {
+        "category": "Trauma",
+        "input": "How do I move on from something that hurts so much?",
+        "response": "It's okay to feel this way. Healing isn't linear, but you're not alone. Want to talk about what's weighing you down?"
+    },
+    {
+        "category": "Trauma",
+        "input": "It feels like I'll never heal from this.",
+        "response": "It's hard to move on from pain, but it's possible. Little steps make a difference. Have you considered speaking with a therapist about it?"
+    },
+    {
+        "category": "Anger Management",
+        "input": "I get angry so easily, and I don't know why.",
+        "response": "Anger can be overwhelming. Let's try a simple exercise\u2014count to 10 and take deep breaths. Does that help?"
+    },
+    {
+        "category": "Anger Management",
+        "input": "Sometimes, my anger scares me.",
+        "response": "It's okay to feel angry. Finding a safe way to express it, like writing or physical activity, can help. Want some suggestions?"
+    },
+    {
+        "category": "Anger Management",
+        "input": "I keep lashing out at people I care about.",
+        "response": "Your feelings matter, even the tough ones. Let's work on identifying triggers so you can handle them better. What usually sets you off?"
+    },
+    {
+        "category": "Anger Management",
+        "input": "How can I stop myself from losing control?",
+        "response": "Lashing out can feel out of control. Apologizing and reflecting on why it happened is a good start. Want to talk about it?"
+    },
+    {
+        "category": "Anger Management",
+        "input": "Anger feels like the only emotion I can express.",
+        "response": "Anger isn't your only emotion. Let's explore what's beneath it\u2014hurt, fear, or something else? I'm here to help."
+    },
+    {
+        "category": "Overthinking",
+        "input": "I can't stop overthinking every little thing.",
+        "response": "Overthinking can be exhausting. Try writing down your thoughts to get them out of your head. Would that help?"
+    },
+    {
+        "category": "Overthinking",
+        "input": "What if everything goes wrong?",
+        "response": "What-if scenarios can spiral quickly. Let's focus on what's real and in your control. What's one thing you're certain of?"
+    },
+    {
+        "category": "Overthinking",
+        "input": "I replay conversations in my head and wonder what I did wrong.",
+        "response": "Replaying conversations is tough. Remember, people often think less about us than we imagine. Want to discuss it?"
+    },
+    {
+        "category": "Overthinking",
+        "input": "Why can't I just let things go?",
+        "response": "Letting go is hard. Mindfulness exercises, like focusing on your breath, can help. Would you like to try one?"
+    },
+    {
+        "category": "Overthinking",
+        "input": "My thoughts keep me awake at night.",
+        "response": "Overthinking keeps you stuck. Taking action, even small, can break the cycle. What's one thing you can do now?"
+    },
+    {
+        "category": "Professional Guidance",
+        "input": "I don't know what career to choose, and it's stressing me out.",
+        "response": "It's normal to feel unsure about careers. Exploring your interests and strengths is a good first step. Want help with that?"
+    },
+    {
+        "category": "Professional Guidance",
+        "input": "What if I fail in the job I pick?",
+        "response": "Fear of failure is tough, but every step teaches you something. Let's look at your options together. What's on your mind?"
+    },
+    {
+        "category": "Professional Guidance",
+        "input": "How do I figure out what I'm good at?",
+        "response": "Discovering your skills can take time. What do you enjoy doing most? That could give us a clue about your direction."
+    },
+    {
+        "category": "Professional Guidance",
+        "input": "I feel lost when I think about my future career.",
+        "response": "Feeling lost is okay. Many people go through this. Let's make a list of your values and goals to get some clarity."
+    },
+    {
+        "category": "Professional Guidance",
+        "input": "I want to do something meaningful, but I don't know what.",
+        "response": "Meaningful work comes from knowing yourself. What inspires you? Let's think about how to turn that into a career."
+    }
+]

@@ -1,0 +1,497 @@
+[
+    {
+        "Age": 25,
+        "Input Text": "Im feeling the pressure to make big life decisions like marriage and buying a house. How do I know if Im ready?",
+        "Output Response": "Its normal to feel pressure, but these decisions should come from your own readiness, not external expectations. Take time to reflect on your values and goals. Theres no rush, and its okay to take small steps towards these milestones when it feels right for you."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im at a crossroads in my career. How do I figure out the next step?",
+        "Output Response": "Being at a crossroads is a chance for growth. Consider your strengths, interests, and long-term goals. Talk to mentors or colleagues, and explore opportunities that align with your values. Sometimes, taking a break to reflect can give you clarity on your next step."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling disconnected from my friends because theyre all at different life stages. How can I maintain those relationships?",
+        "Output Response": "Its normal for relationships to evolve as people go through different life stages. Focus on quality over quantity in your interactions. Be open to supporting each other in the ways that matter most, whether through listening, advice, or just being present."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im struggling to balance work, personal life, and self-care. How can I manage everything better?",
+        "Output Response": "Balance comes from setting boundaries and being mindful of your priorities. Schedule time for yourself, whether its for relaxation or hobbies, and dont be afraid to say no to extra tasks when necessary. Taking care of yourself first enables you to be more present in all areas of your life."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I overcome feelings of burnout when Ive been working non-stop?",
+        "Output Response": "Burnout is a sign that you need rest. Take breaks, even if theyre short, and prioritize activities that help you recharge. Reflect on whats causing the burnout and see if there are ways to lighten your workload or delegate tasks. Its crucial to honor your mental health."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im questioning my career choices and whether Im on the right path. How can I gain more clarity?",
+        "Output Response": "Its normal to question your path at this stage. Take time to reflect on what excites you and what youre passionate about. Speak with people in your field or explore new opportunities to see what aligns with your values. Its okay to change course if needed."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im falling behind compared to others my age. How do I cope with that?",
+        "Output Response": "Everyones journey is different, and success doesnt follow a single timeline. Focus on your personal growth, and celebrate your achievements, no matter how small. Comparisons can undermine your confidence, so try to focus on your own progress."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling overwhelmed by all the responsibilities I have right now. How can I manage better?",
+        "Output Response": "Start by organizing your responsibilities and prioritizing the most urgent tasks. Break larger tasks into smaller, manageable steps and take it one day at a time. Remember, its okay to ask for help or delegate when possible. Your well-being comes first."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I handle the stress of job uncertainty at this stage in my life?",
+        "Output Response": "Job uncertainty can be stressful, but its important to maintain a positive mindset. Focus on what you can control, like improving your skills and networking. Take proactive steps towards exploring new opportunities, but also take time to focus on self-care during uncertain times."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im always living in the future instead of enjoying the present. How can I change that?",
+        "Output Response": "Living in the future can lead to anxiety and missed moments. Try practicing mindfulness—focus on the present moment and appreciate whats around you. Create small daily habits to ground yourself, like deep breathing or taking a moment to reflect on what youre grateful for."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im dealing with some imposter syndrome at work. How can I overcome it?",
+        "Output Response": "Imposter syndrome is common, especially when youre taking on new challenges. Remind yourself that your achievements are earned and that you belong in your role. Talk to a mentor or trusted colleague for perspective and focus on the skills and experiences that got you where you are."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I manage the pressure of making long-term life decisions like starting a family?",
+        "Output Response": "Starting a family is a huge decision, and its normal to feel the pressure. Take time to reflect on your readiness and the timing that feels right for you. Communicate openly with your partner, and remember that everyones journey is unique. Theres no ‘perfect time to start a family."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im losing touch with my goals. How can I refocus and get back on track?",
+        "Output Response": "Its easy to lose sight of your goals over time. Revisit them and break them into smaller, actionable steps. Set clear priorities and revisit your goals regularly. Accountability, either through a mentor or friend, can also help you stay on track and focused."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I make a major career change at this stage in my life?",
+        "Output Response": "A career change at 25 can be daunting, but its also an opportunity for growth. Assess your transferable skills, do research into the field youre interested in, and build connections. Taking gradual steps, like internships or part-time work, can help ease the transition."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling a bit lost after graduating and not knowing what to do next. How can I figure it out?",
+        "Output Response": "Feeling lost after graduation is more common than you think. Take time to explore your interests, network with professionals in fields youre curious about, and stay open to new opportunities. Sometimes the right path reveals itself once you start taking action and being open to different experiences."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel disconnected from my passions and hobbies. How can I reignite them?",
+        "Output Response": "Reigniting your passions requires a mix of reflection and exploration. Try revisiting past hobbies, or try something new that interests you. Small steps can help bring back that sense of excitement, and its okay if it takes time."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im worried Im not achieving enough. How do I cope with that feeling?",
+        "Output Response": "Its important to recognize that achievement looks different for everyone. Take time to reflect on how far youve come and set realistic expectations for yourself. Practice self-compassion and avoid comparing yourself to others timelines or success."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I navigate the challenges of being independent and managing my finances?",
+        "Output Response": "Being financially independent is a big adjustment, but its all about planning and budgeting. Track your expenses, prioritize saving, and seek advice from people who are financially savvy. Its okay to ask for help and take steps toward long-term financial goals."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling unsure about my relationships and whether they are the right ones. Any advice?",
+        "Output Response": "Its normal to question relationships, especially as you evolve. Take time to reflect on how you feel in these relationships—do they support your growth and well-being? Communication is key, so have honest conversations with your partner or friends to explore your concerns."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop feeling guilty about taking breaks when theres so much to do?",
+        "Output Response": "Taking breaks is essential for productivity and well-being. Remember, breaks actually help you perform better in the long run. Reframe your thinking—rest is an investment in your overall effectiveness. Dont feel guilty about prioritizing self-care."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im struggling with balancing personal goals and career goals. How can I do both?",
+        "Output Response": "Balancing personal and career goals requires clear prioritization. Set boundaries to ensure that both areas receive attention. Break down your goals into smaller, manageable tasks, and dont forget to give yourself permission to adjust as life changes."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im always juggling too many things. How can I get better at managing everything?",
+        "Output Response": "Managing multiple responsibilities requires effective time management. Start by prioritizing your tasks and creating a realistic schedule. Break your day into blocks of focused work and relaxation. Be sure to take regular breaks to avoid burnout, and dont hesitate to delegate when needed."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling like I dont know who I am anymore after everything Ive been through. How do I rediscover myself?",
+        "Output Response": "Rediscovering yourself is a process, and its okay to take your time. Start by reflecting on your values, passions, and what brings you joy. Reconnect with activities or hobbies that once sparked interest. Its important to be kind to yourself during this journey of self-exploration."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop feeling so overwhelmed by the pressure to have everything figured out?",
+        "Output Response": "Its completely okay not to have everything figured out, especially at 25. The pressure to have a set path is unrealistic. Focus on one thing at a time, set small goals, and trust that the answers will come as you continue to explore your options."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im afraid of making the wrong decision about my career path. How do I gain more confidence in my choices?",
+        "Output Response": "Making career decisions can be daunting, but remember that no decision is ever final. Think of it as a learning process. Gain confidence by researching your options, speaking with others in the field, and trusting your instincts. Every step is part of your growth."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im constantly comparing myself to others. How do I stop doing this?",
+        "Output Response": "Comparing yourself to others can lead to unnecessary stress. Focus on your own unique journey and achievements. Practice gratitude for your progress and remind yourself that everyones path is different. Celebrate what makes you, you."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I maintain motivation when it feels like my goals are far out of reach?",
+        "Output Response": "Motivation often comes from breaking down big goals into smaller, achievable tasks. Focus on the steps you can take today and celebrate those wins. When goals seem distant, remember that progress is cumulative and every small action is a step forward."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I deal with feeling like Im stuck in a career that doesnt bring me joy?",
+        "Output Response": "Feeling stuck can be tough, but its not permanent. Start by identifying what parts of your job you do enjoy and build on them. If your career no longer aligns with your passions, consider making a change, even if its small steps toward exploring something new."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im constantly worried about my finances. How can I feel more in control of them?",
+        "Output Response": "Managing finances starts with creating a budget and sticking to it. Track your income and expenses, and set aside savings each month. If needed, seek advice from a financial expert. Feeling more in control comes from understanding your situation and setting clear, achievable financial goals."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How can I stop procrastinating and be more productive?",
+        "Output Response": "Procrastination often stems from feeling overwhelmed or unsure of where to start. Break tasks into smaller, more manageable steps and set deadlines for each one. Start with the easiest task to build momentum, and remember that progress, not perfection, is the goal."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im not where I thought Id be at this point in my life. How can I accept that?",
+        "Output Response": "Its common to feel like youre behind, but life doesnt follow a straight path. Your journey is unique, and the experiences youve had shape who you are. Focus on the progress youve made, and give yourself grace for not following a traditional timeline."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling disconnected from my partner lately. How can we reconnect?",
+        "Output Response": "Reconnecting with your partner requires communication and effort from both sides. Set aside time for each other, away from distractions. Talk openly about your feelings and listen to theirs. Sometimes, doing small things to show you care can make a big difference in reconnecting."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like my job is draining me emotionally. How do I set boundaries without feeling guilty?",
+        "Output Response": "Setting boundaries is essential for emotional well-being. Its okay to say no to tasks that drain you or to limit work outside of your office hours. Communicate your boundaries respectfully, and remember that taking care of yourself makes you more effective in your work."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stay motivated to keep growing and learning when I feel burnt out?",
+        "Output Response": "When burnout hits, its important to rest and recharge first. Once youre feeling better, revisit your goals and remind yourself of your passion for growth. Learning doesnt always have to be intense—it can be a more casual exploration, like reading or watching a documentary."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im struggling with my self-esteem. How can I improve my confidence?",
+        "Output Response": "Improving self-esteem takes time and self-compassion. Start by acknowledging your strengths and accomplishments, no matter how small. Set achievable goals and celebrate each victory. Surround yourself with supportive people who encourage your growth, and practice positive self-talk."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I make peace with my past and move forward?",
+        "Output Response": "Making peace with the past involves acceptance and forgiveness, both of yourself and others. Reflect on the lessons learned, but dont dwell on regrets. Moving forward means focusing on the present and what you can control in your future."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling like Im constantly trying to meet others expectations. How do I prioritize my own needs?",
+        "Output Response": "Its easy to fall into the trap of trying to meet everyone elses expectations, but its important to listen to your own needs. Reflect on what truly matters to you, and set boundaries to protect your time and energy. Prioritize your well-being without guilt."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I manage feelings of loneliness while trying to build my career?",
+        "Output Response": "Loneliness can be difficult, especially when focusing on your career. Stay connected with friends and family, even if its just through messages or calls. Balance work with social activities, and consider joining networking groups or hobbies to meet like-minded people."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im anxious about taking risks in my career. How can I become more comfortable with uncertainty?",
+        "Output Response": "Taking risks is part of growth. Start small by stepping out of your comfort zone in low-stakes situations. Remind yourself that failure is a part of the learning process. Over time, taking calculated risks will feel less intimidating."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop feeling like Im wasting time if Im not always working towards a goal?",
+        "Output Response": "Rest and relaxation are essential, not a waste of time. You deserve to recharge without feeling guilty. Taking time to reflect, unwind, or engage in hobbies is just as important as productivity. Balance is key to long-term success and well-being."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Ive lost my sense of purpose. How can I find it again?",
+        "Output Response": "Losing your sense of purpose can be unsettling, but its often temporary. Reconnect with activities that once brought you joy or try something new. Reflect on what matters most to you and how you can align your daily life with those values. Purpose often evolves over time."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop feeling guilty about taking time for myself when theres so much to do?",
+        "Output Response": "Taking time for yourself is not selfish—its essential for your mental and physical well-being. Youre much more effective when youre rested and recharged. Schedule time for relaxation and self-care without guilt, knowing it benefits both you and the people around you."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like my life is all work and no play. How can I balance it better?",
+        "Output Response": "Balancing work and play is key to a fulfilling life. Set aside time for hobbies, socializing, and relaxation just as you would for work tasks. Scheduling ‘play time can help you reconnect with your passions and recharge so you can bring your best self to work."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How can I find a career that aligns with my values instead of just focusing on money?",
+        "Output Response": "Start by identifying what truly matters to you—whether its creativity, helping others, or a sense of purpose. Research industries or companies that reflect your values and see if they align with your skills. A meaningful career often brings both satisfaction and financial stability."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im not achieving my potential. How do I start living up to it?",
+        "Output Response": "Start by setting clear, achievable goals and breaking them down into smaller steps. Focus on incremental progress rather than perfection. Remind yourself of your strengths, and seek feedback from others to improve. Progress is a journey, not a destination."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I know if Im ready to take the next big step in my career?",
+        "Output Response": "Readiness comes from feeling confident in your skills, but also being open to growth. If youre feeling prepared and excited, thats a good sign. Take time to reflect on your goals and whether this step aligns with your long-term vision. Trust your instincts, and dont be afraid to step outside your comfort zone."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im finding it difficult to stay motivated after the initial excitement of a new project wears off. What can I do?",
+        "Output Response": "Motivation can fluctuate, but consistency is key. Break your project into smaller, manageable tasks and celebrate each milestone. Stay connected to the reasons why you started the project in the first place, and reach out to others for support when needed to reignite your enthusiasm."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel stuck in a routine that doesnt make me happy. How can I break free?",
+        "Output Response": "Breaking free from a routine requires making small, intentional changes. Start by trying something new, whether its a hobby, a social activity, or a different work routine. Change doesnt have to be drastic, but over time, even small adjustments can bring fresh energy to your life."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im not sure if I should keep pushing for a promotion or look for a new opportunity. Whats your advice?",
+        "Output Response": "Consider whether the promotion aligns with your long-term goals and if youre passionate about it. If it feels like a natural progression, go for it. However, if you feel like your growth is limited in your current role, exploring new opportunities could open doors to fresh challenges and fulfillment."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling anxious about taking on new responsibilities at work. How can I handle the pressure?",
+        "Output Response": "New responsibilities can be daunting, but theyre also an opportunity for growth. Break down the tasks into manageable pieces and ask for support or clarification when needed. Take things one step at a time and practice self-compassion—learning is a process."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im not sure how to handle a conflict with a colleague. What should I do?",
+        "Output Response": "Handling conflict requires clear communication and a calm approach. Address the issue directly and respectfully, focusing on how the situation affects both of you. Stay open to their perspective and be willing to compromise when possible. Resolving conflicts constructively can strengthen professional relationships."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im not making the most of my time. How can I be more productive?",
+        "Output Response": "Productivity comes from focus and prioritization. Identify your most important tasks and tackle them first. Eliminate distractions, and set realistic goals for each day. Remember to take breaks to recharge and avoid burnout. Productivity is about balance, not perfection."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling burnt out from balancing so many responsibilities. How can I handle this without sacrificing my well-being?",
+        "Output Response": "Burnout happens when we overextend ourselves. Its important to set boundaries, delegate tasks when possible, and prioritize self-care. Take time off when needed, and dont feel guilty about focusing on your mental health. Being mindful of your limits will help you stay productive in the long run."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling uncertain about my future. How do I cope with this uncertainty?",
+        "Output Response": "Uncertainty is a natural part of life. Instead of focusing on the unknown, shift your attention to what you can control. Set short-term goals and take things one day at a time. Embrace the uncertainty as an opportunity to grow, learn, and discover new paths."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How can I find a balance between building my career and maintaining a healthy social life?",
+        "Output Response": "Balance comes from setting boundaries and being intentional with your time. Schedule both work and social activities so you can prioritize both aspects of your life. Learn to say no when necessary, and be present in your personal time to ensure its meaningful."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im struggling with a lack of motivation lately. What can I do to get back on track?",
+        "Output Response": "A lack of motivation is often a sign that you need a break or change in routine. Start by re-evaluating your goals and finding what excites you. Break tasks into smaller, more achievable steps to make them feel less overwhelming. Sometimes just taking the first step can reignite your motivation."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel overwhelmed by the expectations of my family regarding my career. How do I manage this pressure?",
+        "Output Response": "Managing family expectations requires clear and honest communication. Explain your goals and aspirations and how they align with your happiness. Its important to listen to their concerns, but remember that your career path is ultimately yours to define."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How can I stay grounded and focused when I feel like Im losing control of my life?",
+        "Output Response": "When life feels out of control, grounding techniques can help. Take a deep breath, meditate, or write down your thoughts to gain clarity. Prioritize self-care and seek support from friends, family, or a mentor. Reclaiming small elements of control can help restore your sense of balance."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I manage my time better when I feel constantly busy and overwhelmed?",
+        "Output Response": "Time management starts with prioritizing your tasks. Use tools like calendars or to-do lists to break down tasks and stay organized. Dont hesitate to delegate or say no when you need to protect your time. Remember, productivity isnt about doing more, but about doing what matters most."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel lost and unsure about my direction in life. How do I find my purpose again?",
+        "Output Response": "Finding your purpose takes time and reflection. Revisit what brings you joy and fulfillment. Explore new interests or passions, and talk to people who inspire you. Sometimes, purpose is discovered through exploration and being open to new possibilities."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im having a hard time staying motivated in my current job. How do I find excitement in it again?",
+        "Output Response": "If your current job doesnt excite you, try focusing on the aspects that still bring you satisfaction, even if theyre small. Set new challenges for yourself within the job to reignite your passion. If that doesnt work, it may be time to explore new opportunities that align more with your interests."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im constantly second-guessing my career decisions. How do I stop doubting myself?",
+        "Output Response": "Self-doubt is common, especially when making big decisions. Trust in your past experiences and the choices that led you here. Remind yourself that every decision is a learning opportunity. Reach out to mentors or peers who can offer a different perspective and reassurance."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im too old to be starting something new. How can I get past this feeling?",
+        "Output Response": "Its never too late to start something new. Age is just a number, and many people have reinvented themselves later in life. Focus on the excitement of learning and growing, and remember that each experience brings valuable lessons. Starting fresh can be one of the most fulfilling things you can do."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im overwhelmed with trying to balance a social life, work, and self-care. How do I manage all of it?",
+        "Output Response": "Start by setting clear boundaries for each area of your life. Dedicate specific times for work, socializing, and self-care. Keep a calendar or planner to track commitments and make sure youre balancing your priorities. Dont hesitate to say no when needed—your well-being comes first."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im struggling to find meaning in my day-to-day life. How do I change this?",
+        "Output Response": "Finding meaning in your day-to-day life often starts with connecting to your deeper values. Reflect on what truly matters to you, whether its personal growth, relationships, or helping others. Try setting intentional goals that align with these values and build daily routines that reflect them."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im stuck in a dead-end job. How can I find my way out?",
+        "Output Response": "Feeling stuck is tough, but its not permanent. Start by assessing what aspects of your current job you enjoy and explore how those can lead you to new opportunities. Update your resume, network with people in fields youre interested in, and consider taking up new skills or certifications to open doors."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop stressing about the future when I dont know where Im headed?",
+        "Output Response": "The future can feel overwhelming when its uncertain, but try to focus on the present moment. Set short-term, achievable goals to give you direction. Instead of stressing about the unknown, take actionable steps towards building the future you want, knowing that youll adjust as you go."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling really disconnected from my friends lately. How can I reconnect?",
+        "Output Response": "Reconnecting with friends starts with reaching out and being open about how youre feeling. Schedule time to catch up or plan an activity together. Its okay to acknowledge that life changes, but true friendships can adapt and grow stronger through honest conversations."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im dealing with constant pressure to succeed. How can I handle this without burning out?",
+        "Output Response": "Pressure to succeed is common, but its important to set realistic expectations for yourself. Break large goals into smaller, manageable steps and celebrate your progress. Practice mindfulness, take breaks, and know that success doesnt always happen overnight—consistency and balance are key."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop feeling guilty for not having everything figured out yet?",
+        "Output Response": "Its completely normal not to have everything figured out, especially at 25. Life is a journey, and theres no set timeline for success. Focus on the progress youve made, the experiences youve gained, and trust that your path will unfold in its own time."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im not living up to my potential. How do I reach it?",
+        "Output Response": "Reaching your potential starts with understanding your strengths and passions. Break your goals down into manageable actions and focus on consistent progress. Surround yourself with supportive people who encourage you. Remember, personal growth is an ongoing process—celebrate your victories along the way."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling like Im just going through the motions every day. How do I add more meaning to my routine?",
+        "Output Response": "Add meaning to your routine by consciously choosing activities that align with your values. Try to make each day intentional—whether its through self-care, learning something new, or connecting with loved ones. Small, purposeful changes can help bring a deeper sense of fulfillment."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How can I make sure Im making the most out of my 20s without feeling like Im wasting time?",
+        "Output Response": "Making the most of your 20s doesnt mean rushing or doing everything at once. Focus on growth, exploration, and self-discovery. Try new things, make mistakes, and embrace learning. Its okay to take your time—your 20s are about finding balance and building the foundation for your future."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im not sure if I should pursue my passion or stick with something more stable. What do you think?",
+        "Output Response": "This is a tough decision, but its important to evaluate both options. Pursuing your passion can bring fulfillment, but its also okay to seek stability while you explore your passion on the side. You can find a balance between security and excitement, and sometimes, a hybrid approach works best."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel overwhelmed by the pressure of making the right choices for my future. How can I handle this?",
+        "Output Response": "Its natural to feel pressure, but remember that no choice is ever set in stone. Focus on making informed decisions and trust that you can adjust along the way. Set short-term goals that align with your long-term vision, and embrace the process rather than focusing solely on the outcome."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im struggling to keep up with my work while maintaining a healthy work-life balance. Any tips?",
+        "Output Response": "Work-life balance is all about setting boundaries. Create a schedule that includes time for work, relaxation, and hobbies. Learn to say no when necessary and prioritize tasks. Regular breaks and taking time off when needed will help you stay productive without burning out."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling really uncertain about the direction my career is heading. How do I find clarity?",
+        "Output Response": "When feeling uncertain, start by identifying what you enjoy and where your strengths lie. Explore different paths, take courses, or talk to people in various industries to gain insight. Clarity often comes from exploring options and seeing what resonates most with your values and aspirations."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I handle the pressure of societal expectations at this stage in life?",
+        "Output Response": "Societal expectations can be overwhelming, but remember, everyones journey is unique. Focus on your own values and goals. Its okay to take your time and make decisions that align with what makes you happy, rather than what others expect from you."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im falling behind my peers in terms of success. How do I handle these feelings?",
+        "Output Response": "Its easy to compare yourself to others, but everyones path is different. Focus on your own growth and progress. Celebrate the small wins along the way, and remember that success doesnt follow a single timeline. Your journey is uniquely yours."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im missing out on life while trying to focus on my career. How do I create balance?",
+        "Output Response": "Its important to strike a balance between work and personal fulfillment. Allocate time for hobbies, relationships, and relaxation just as you do for your career. Life isnt just about achievements—its also about experiences and connections. Start small by carving out time for what brings you joy."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop overthinking every decision I make?",
+        "Output Response": "Overthinking can be exhausting. Start by setting a time limit for making decisions and trust your instincts. Remind yourself that most decisions arent permanent and can be adjusted later. Focus on what feels right in the moment instead of worrying about every possible outcome."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling disconnected from my partner due to stress. How can we reconnect?",
+        "Output Response": "Start by having an open and honest conversation with your partner about how youre feeling. Make time for quality moments together, even if theyre small. Reconnecting often requires mutual understanding and effort, so work together to find activities or rituals that bring you closer."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im constantly worrying about finances. How do I manage this stress?",
+        "Output Response": "Financial stress is common, but it can be managed with planning. Create a budget that aligns with your goals and stick to it. Prioritize saving, even if its a small amount. If possible, seek advice from a financial advisor to feel more in control of your situation."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I cope with the fear of failure in my career?",
+        "Output Response": "Fear of failure is natural, but it can hold you back. Shift your mindset to view failure as a learning opportunity rather than an endpoint. Break your goals into smaller, manageable steps, and celebrate your efforts, regardless of the outcome. Growth often comes from challenges."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im finding it hard to stay confident in myself. How do I rebuild my self-esteem?",
+        "Output Response": "Rebuilding self-esteem takes time. Start by acknowledging your strengths and accomplishments, no matter how small. Practice self-compassion and avoid harsh self-criticism. Surround yourself with supportive people and take on challenges that help you grow. Each step forward will strengthen your confidence."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im feeling stuck creatively. How do I spark inspiration again?",
+        "Output Response": "Creative blocks are normal. Step away from the task and try something unrelated to refresh your mind. Explore new environments, listen to inspiring content, or collaborate with others for fresh perspectives. Sometimes, inspiration comes when you least expect it."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im afraid of making mistakes at work. How do I handle this fear?",
+        "Output Response": "Mistakes are a natural part of learning and growth. Focus on doing your best and remind yourself that no one is perfect. When mistakes happen, view them as opportunities to improve. Communicate openly with colleagues or supervisors and use feedback constructively."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im always on edge lately. How do I calm my anxiety?",
+        "Output Response": "To calm anxiety, try grounding techniques like deep breathing or mindfulness exercises. Identify triggers and find ways to manage them, whether through lifestyle changes or professional support. Remember, taking small steps to prioritize your mental health can make a big difference."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im worried Im not building the right habits for my future. How do I change this?",
+        "Output Response": "Building good habits starts with small, consistent actions. Identify one or two habits youd like to develop and focus on them until they become routine. Use tools like reminders or habit trackers to stay on track. Change takes time, so be patient with yourself."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im struggling to adapt to changes in my life. How do I become more flexible?",
+        "Output Response": "Adaptability comes from being open to learning and accepting that change is a natural part of life. Practice viewing change as an opportunity for growth. Focus on what you can control and stay curious about new experiences. Over time, flexibility becomes easier."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im not sure how to balance my personal values with my jobs demands. What should I do?",
+        "Output Response": "Balancing personal values with job demands starts with identifying your non-negotiables. Communicate your boundaries respectfully and look for ways to align your work with your values. If alignment isnt possible, it may be worth exploring opportunities that better reflect your principles."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Im always saying yes to everything and getting overwhelmed. How do I set boundaries?",
+        "Output Response": "Setting boundaries is about protecting your time and energy. Learn to say no politely but firmly when necessary. Start with small steps, like prioritizing tasks or limiting commitments. Over time, youll feel more confident setting boundaries that align with your needs."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I stop comparing myself to others and focus on my own journey?",
+        "Output Response": "Comparison can be discouraging. Shift your focus to your progress and celebrate your achievements, no matter the size. Practice gratitude for what you have and remind yourself that everyones path is unique. Replace comparison with inspiration from others journeys."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel overwhelmed by the constant need to be productive. How do I give myself permission to rest?",
+        "Output Response": "Rest is essential for productivity and well-being. Remind yourself that taking breaks helps you recharge and perform better. Schedule downtime in your routine and treat it as non-negotiable. Rest is not a luxury—its a necessity."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im not sure how to let go of a grudge Ive been holding onto. What should I do?",
+        "Output Response": "Letting go of a grudge is a gift to yourself. Start by acknowledging your feelings and understanding the impact of holding onto resentment. Practice empathy and forgiveness—not necessarily for the other person, but for your own peace of mind. Letting go doesnt mean forgetting; it means freeing yourself."
+    },
+    {
+        "Age": 25,
+        "Input Text": "How do I handle self-doubt when trying something new?",
+        "Output Response": "Self-doubt is natural when stepping out of your comfort zone. Focus on what youve achieved in the past and remind yourself that growth comes from challenges. Take things one step at a time and celebrate progress. Surround yourself with supportive people who encourage you."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im scared of making big life decisions. How do I build confidence in my choices?",
+        "Output Response": "Building confidence in big decisions starts with gathering information and considering your options. Trust your instincts and remember that no choice is permanent—theres room for adjustment. Take small steps towards your decision, and seek support from trusted friends or mentors."
+    },
+    {
+        "Age": 25,
+        "Input Text": "I feel like Ive lost touch with what Im passionate about. How do I rediscover it?",
+        "Output Response": "Rediscovering passion involves exploring new interests and revisiting old ones. Give yourself permission to try different activities or projects without pressure. Reflect on what used to excite you and why, and take small steps to reconnect with those feelings. Passion often reignites when approached with curiosity."
+    },
+    {
+        "Age": 25,
+        "Input Text": "Im not sure if Im living up to others expectations. How do I focus on my own goals instead?",
+        "Output Response": "Living for others expectations can be draining. Take time to reflect on your own values and aspirations. Set goals that align with your happiness and fulfillment, not what others expect of you. Remember, its your life, and prioritizing your needs is not selfish."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Category": "Mental Health",
+        "Input Text": "Ive been feeling anxious a lot recently. What can I do?",
+        "Output Response": "Anxiety can be overwhelming, but there are strategies to manage it. Try deep breathing exercises, progressive muscle relaxation, or mindfulness techniques to calm your mind. Establishing a regular sleep and exercise routine can also help. If it continues, a professional might help guide you through it."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "I feel overwhelmed by my emotions, how do I cope with this?",
+        "Output Response": "Its okay to feel overwhelmed at times. Try to break things down into smaller steps—focus on one thing at a time. Journaling or talking to someone you trust can help process your emotions. Practicing mindfulness and taking breaks when you need them can also reduce emotional overload."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "I sometimes feel sad for no reason. Is that normal?",
+        "Output Response": "Yes, it's completely normal to feel sad without a clear cause. Emotions can be influenced by a variety of factors, such as hormonal changes, stress, or even a lack of sleep. Take care of your mental health with self-care practices like meditation, physical activity, and connecting with loved ones."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "What can I do if I feel like Im spiraling into depression?",
+        "Output Response": "If you're feeling overwhelmed or as if you're spiraling, it's important to reach out for support. Talk to someone you trust or seek professional help. Depression is treatable, and a therapist or counselor can guide you through coping strategies and offer emotional support."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "How do I manage my mental health when everything feels like too much?",
+        "Output Response": "When things feel overwhelming, take a step back and break down your tasks into smaller, manageable parts. Prioritize your well-being by taking breaks, practicing mindfulness, or engaging in an activity you enjoy. Sometimes, talking it through with someone can help you gain clarity and perspective."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "Im experiencing burnout. How can I recover from it?",
+        "Output Response": "Burnout can take a toll on your mental and physical health. Take a break from stressful tasks and prioritize rest. Engage in activities that relax you, whether its reading, walking, or doing something creative. When you're ready, slowly reintroduce tasks with healthier boundaries. Seeking professional help might also be beneficial."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "How do I stop feeling like Im always anxious?",
+        "Output Response": "Chronic anxiety can be exhausting, but there are ways to manage it. Try mindfulness exercises, regular physical activity, and focusing on breathing techniques. If anxiety continues to affect your daily life, consider reaching out to a therapist or counselor who can help you explore coping strategies."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "Is it normal to have mood swings, especially in my twenties?",
+        "Output Response": "Yes, mood swings can be normal in your twenties due to a combination of factors such as stress, hormonal changes, and adjusting to adulthood. Pay attention to triggers, practice self-care, and try grounding techniques when you feel off-balance. If mood swings are severe, consulting a professional can be helpful."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "Im afraid of seeking therapy. What should I expect?",
+        "Output Response": "Its natural to feel apprehensive about therapy. Therapy is a safe space where you can talk about your feelings without judgment. A therapist will help guide the conversation and provide strategies to cope with what you're going through. The process can take time, but its worth it for your well-being."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "How do I improve my self-esteem?",
+        "Output Response": "Building self-esteem is a gradual process. Start by acknowledging your strengths and achievements, no matter how small. Practice positive self-talk and challenge negative thoughts. Surround yourself with people who uplift and support you, and remember that self-worth isnt tied to external validation."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "I'm struggling with negative thoughts. How do I stop them?",
+        "Output Response": "Its common to have negative thoughts, but you can change your thought patterns over time. Practice cognitive restructuring, where you identify and challenge these thoughts. Try focusing on more positive or neutral thoughts and use affirmations to boost your mindset. Speaking to a professional can also help in managing negative thought cycles."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "I find it hard to get out of bed in the morning. Is this normal?",
+        "Output Response": "It can be a sign of depression or burnout if youre consistently feeling drained in the morning. Start with small steps—perhaps getting out of bed for just a few minutes to stretch or drink water. Gradually, try to set a consistent wake-up time and engage in activities you enjoy to build motivation."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "I dont feel like doing anything lately. Is this a sign of depression?",
+        "Output Response": "A lack of interest in things you usually enjoy could be a symptom of depression, especially if it persists for weeks. Its important to acknowledge these feelings and talk to someone about them—whether its a trusted person in your life or a mental health professional. Early intervention can help manage depression effectively."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "How can I stop feeling so lonely all the time?",
+        "Output Response": "Loneliness can be tough, but there are ways to combat it. Start by connecting with others, even in small ways, like reaching out to a friend or joining a social activity. If youre feeling socially isolated, consider participating in groups that align with your interests. You can also work on building self-compassion and enjoy your own company."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "Im having trouble focusing on my work. What can I do?",
+        "Output Response": "Trouble focusing can be due to stress or mental fatigue. Try breaking down your tasks into smaller, manageable steps. Set a timer to focus for short intervals and take regular breaks. Make sure to take care of your physical health—exercise, eat well, and get enough sleep to support your focus and productivity."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "How do I know if Im experiencing burnout?",
+        "Output Response": "Burnout happens when youre emotionally, physically, and mentally exhausted. Common signs include feeling overwhelmed, losing motivation, and being unable to recharge, even after rest. If youre experiencing these symptoms, its important to take a step back, prioritize self-care, and consider talking to a professional for support."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "Im constantly comparing myself to others. How do I stop?",
+        "Output Response": "Its natural to compare yourself to others, but it can be damaging. Focus on your own journey and celebrate your progress. Remember that everyone has different circumstances and timelines. Practice self-compassion and mindfulness to stay present and appreciate who you are without the need for comparison."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "Why do I feel so anxious about my future?",
+        "Output Response": "Its normal to feel anxious about the future, especially when faced with uncertainty or big decisions. Focus on what you can control in the present moment. Break down your long-term goals into smaller steps and remember that its okay to not have everything figured out. Talk to someone if the anxiety becomes overwhelming."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "I keep avoiding things I need to do. How do I stop procrastinating?",
+        "Output Response": "Procrastination can be a sign of anxiety or perfectionism. Start by setting clear, achievable goals and breaking tasks into smaller, manageable steps. Try to identify why youre avoiding the task—are you feeling overwhelmed, or unsure of where to start? Overcome the initial resistance with a 5-minute focus session, and reward yourself after completing tasks."
+    },
+    {
+        "Category": "Mental Health",
+        "Input Text": "How can I improve my emotional regulation?",
+        "Output Response": "Improving emotional regulation takes practice. Start by identifying your emotional triggers and noticing how you react. When you feel a strong emotion, pause and take a few deep breaths before responding. Techniques like mindfulness, journaling, or talking with a trusted friend can help process emotions in a healthy way."
+    }
+]

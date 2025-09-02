@@ -1,0 +1,526 @@
+[
+    {
+        "Age": 23,
+        "Input Text": "I feel pressure to settle down and have my life figured out, but Im not ready.",
+        "Output Response": "Its completely normal to not have everything figured out yet. Life is a journey, and theres no need to rush. Focus on your personal growth, and the rest will come when the time is right."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling anxious about the transition from college life to a full-time job.",
+        "Output Response": "Thats a big change, and its natural to feel anxious. Try to embrace the new experience with an open mind. Take things one day at a time, and remember to take care of yourself during the transition."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I handle the pressure to be independent, but still need support from my family?",
+        "Output Response": "Its okay to need support, even as you work towards independence. Balance is key—be open about your needs with your family, while also setting boundaries and focusing on your own growth."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im overwhelmed by the idea of building a career and managing personal relationships at the same time.",
+        "Output Response": "Balancing work and relationships can be challenging. Focus on setting boundaries and making time for both. Communication is crucial in maintaining healthy relationships while pursuing your career."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I dont feel confident in my job, but Im afraid of failing if I dont keep going.",
+        "Output Response": "Imposter syndrome is real, but youre not alone. Give yourself time to grow into your role. Seek feedback, keep learning, and remember that failure is just a part of the learning process."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I find the right balance between socializing and focusing on my career?",
+        "Output Response": "Its about prioritizing whats important. Set aside time for socializing and relaxation, but also make sure you dedicate time to your career goals. Balance is a dynamic process that you can adjust over time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling to figure out what my long-term goals are after graduation.",
+        "Output Response": "Its okay to not have your long-term goals figured out just yet. Focus on gaining experience and learning along the way. Clarity often comes with time and exploration."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im falling behind compared to my friends who seem to be more successful.",
+        "Output Response": "Remember that everyones journey is different. You are exactly where you need to be. Stay focused on your own path and celebrate your unique accomplishments."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I manage the stress of trying to succeed in my career while also maintaining a social life?",
+        "Output Response": "Start by setting boundaries at work and planning ahead for social activities. Managing stress involves time management and prioritizing your mental health. Be mindful of your energy and make sure youre not overcommitting."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel lost because I dont know if my current job is the right fit for me.",
+        "Output Response": "Its normal to question your job early in your career. Take time to evaluate what you enjoy and what aligns with your values. If needed, explore other opportunities or have a conversation with a mentor."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im worried about my financial future and whether Im saving enough for the long term.",
+        "Output Response": "Start by setting clear financial goals and creating a budget. Its great that youre thinking about your future. Even small steps, like saving a percentage of your income, will add up over time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel pressure to have my career and personal life figured out, but its overwhelming.",
+        "Output Response": "Its normal to feel overwhelmed at this stage. Focus on one thing at a time—build your career and personal life in parallel, but dont expect everything to fall into place all at once. Patience is key."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I deal with the uncertainty of not knowing exactly where I want to be in the future?",
+        "Output Response": "Uncertainty is a part of life, especially at this stage. Take the pressure off and focus on gaining experience and building skills. Your future will come into focus as you continue to learn and grow."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with making big life decisions like moving to a new city or staying where I am.",
+        "Output Response": "Big decisions can be tough. Weigh the pros and cons, and listen to your gut feeling. Its okay to take time to make decisions, and remember that theres no one ‘right path."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel disconnected from my friends who have different priorities now that weve all graduated.",
+        "Output Response": "Friendships evolve, especially after big transitions. Stay in touch, but also be open to new connections. Its okay for priorities to change, and its important to focus on relationships that nurture and support you."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling to stay motivated when I dont see immediate results in my career.",
+        "Output Response": "Stay focused on the process, not just the results. Success often takes time, and every step forward, no matter how small, is progress. Keep learning, growing, and pushing forward."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I keep a positive mindset when I feel overwhelmed with my responsibilities?",
+        "Output Response": "Try to break tasks into smaller, manageable steps. Practice self-care, and remember to give yourself grace. Focusing on the positives and taking moments to recharge will help you maintain a positive mindset."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not where I thought Id be by this age, and its making me anxious.",
+        "Output Response": "Its okay to feel anxious about your progress. Life doesnt follow a set timeline, and where you are now is exactly where you need to be. Focus on the present and keep taking steps towards your goals."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I cope with the anxiety of making a career change when Im not sure its the right move?",
+        "Output Response": "Its normal to feel uncertain when changing careers. Do research, talk to others in the field, and trust your instincts. Its okay to take calculated risks, and you can always adjust your path later."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with imposter syndrome in my first full-time job.",
+        "Output Response": "Imposter syndrome is common, especially in the beginning. Remind yourself that you were hired because of your skills. Seek feedback and be kind to yourself as you continue to learn and grow in your role."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I stop worrying about not measuring up to the expectations of others?",
+        "Output Response": "Focus on your own goals and progress. Others expectations can be overwhelming, but your worth is not defined by them. Set your own standards and celebrate your unique path."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Ive lost touch with my passions since starting my career.",
+        "Output Response": "Its easy to lose sight of passions in the midst of work, but its important to reconnect with what brings you joy. Schedule time for hobbies and activities that inspire you, even if its just a few hours a week."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I deal with the pressure of being in my twenties and not having everything figured out?",
+        "Output Response": "Its okay to not have everything figured out. Your twenties are a time for exploration, learning, and growth. Embrace the uncertainty and trust that things will fall into place as you continue to grow."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling disconnected from my family since moving to a new city for work.",
+        "Output Response": "Its tough when distance creates that feeling. Stay in touch through calls or visits when possible. Sometimes, sharing your new experiences with them can help bridge the gap."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I handle my fears about not being able to support myself financially?",
+        "Output Response": "Financial stress is real, but youre taking the right steps by being mindful. Budgeting and setting savings goals will help you gain control. Dont be afraid to seek advice from others who have been in your shoes."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im stuck in my career and not progressing as fast as I want.",
+        "Output Response": "Its normal to feel stuck at times, but try to assess your current situation. Are there areas to grow in or new skills to acquire? Set small, achievable goals to move forward and seek feedback from mentors."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I maintain a healthy work-life balance when Im constantly worried about my job?",
+        "Output Response": "Start by setting clear boundaries between work and personal time. Prioritize self-care and hobbies that help you unwind. Taking time for yourself will help you return to work refreshed and more focused."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im having trouble finding friends in my new city, and its making me feel isolated.",
+        "Output Response": "It can take time to make new friends, but dont give up. Try joining clubs, attending networking events, or exploring local activities. Keep an open mind and be patient with yourself."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not good enough in my job, but I dont know how to improve.",
+        "Output Response": "Its common to feel that way, especially in a new role. Ask for feedback from your manager, take on new challenges, and focus on learning. Over time, youll build confidence and see your growth."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I manage my stress when my to-do list seems never-ending?",
+        "Output Response": "Break your tasks into smaller, manageable chunks. Prioritize the most important ones and tackle them one by one. Remember to take breaks to refresh your mind, and dont forget to breathe."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel overwhelmed by the idea of making long-term career decisions so early in my life.",
+        "Output Response": "Its okay to not have everything figured out. You can take time to explore different career options and build experience. Theres no rush—your path will unfold as you learn and grow."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I stay motivated when I feel like Im not seeing any progress in my job?",
+        "Output Response": "Sometimes progress is slow, but every small task completed is a step forward. Focus on the little wins, seek support from peers, and remind yourself of the bigger picture."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im unsure if I should stay in my current job or look for something else.",
+        "Output Response": "Evaluate your job based on what youre learning, the challenges, and the opportunities for growth. Talk to mentors or peers for advice, and if it feels right, take a step to explore new opportunities."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like my career isnt aligned with my passions, and I dont know how to fix that.",
+        "Output Response": "Its not uncommon to feel disconnected from your passions early in your career. Take time to explore what truly excites you, and dont be afraid to shift your path to find more fulfillment."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I stay positive when I feel stuck in my job with no room for advancement?",
+        "Output Response": "While it may feel frustrating, use this time to build new skills and network within your industry. Look for opportunities to take on new projects and challenge yourself. Growth can come from unexpected places."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im worried that I wont be able to balance my personal life with the demands of my career.",
+        "Output Response": "Balancing career and personal life can be tough. Set boundaries at work, prioritize your time, and dont forget to invest in relationships and self-care. Its about making intentional choices."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I handle the loneliness of living alone in a new city?",
+        "Output Response": "Living alone can be difficult at first, but its also an opportunity for self-growth. Fill your time with activities you enjoy, and make an effort to meet new people through local events or online groups."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not achieving the goals I set for myself after graduation.",
+        "Output Response": "Its okay to not hit all your goals right away. Reevaluate them and adjust your plans as needed. Set smaller, achievable milestones and remember that success doesnt follow a strict timeline."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I manage my finances now that Im living independently?",
+        "Output Response": "Start by creating a budget and tracking your expenses. Focus on saving a portion of your income each month. It may seem overwhelming at first, but with time, managing your finances will become second nature."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel stressed about not knowing where my career will take me in the future.",
+        "Output Response": "Its natural to feel uncertain about your careers trajectory, but try not to let that stress you out. Focus on building your skills and experience, and trust that opportunities will come as you continue to grow."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel overwhelmed by the number of decisions I need to make in my personal and professional life.",
+        "Output Response": "Its okay to feel overwhelmed by big decisions. Take a step back, list out your options, and talk it through with trusted friends or mentors. Break decisions into smaller steps, and trust yourself to make the right call."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im dealing with the stress of not meeting expectations at work, and its affecting my self-esteem.",
+        "Output Response": "Its tough when work stress impacts your confidence, but remember that mistakes are part of growth. Ask for feedback, learn from experiences, and be kind to yourself. Youre doing your best, and thats enough."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I stay motivated when I dont feel passionate about the work Im doing?",
+        "Output Response": "If youre not passionate about your work, it can be hard to stay motivated. Look for aspects of your job that align with your values and strengths. If needed, explore new opportunities that feel more fulfilling."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling anxious about my financial situation and whether Im saving enough for the future.",
+        "Output Response": "Its normal to worry about your finances, but taking action will help you feel more in control. Create a budget, set saving goals, and consider speaking with a financial advisor for more guidance."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like my career is not moving forward, and its making me question my abilities.",
+        "Output Response": "Career progression takes time, and everyones journey is different. Focus on what youve achieved and the skills youre developing. Talk to a mentor for guidance and find opportunities to challenge yourself."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel stuck in my routine, and its hard to stay motivated at work.",
+        "Output Response": "Feeling stuck in a routine is common, but small changes can make a big difference. Try switching up your daily tasks, setting new goals, or taking on a new project to reignite your motivation."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with managing my time between my personal life and work responsibilities.",
+        "Output Response": "Time management is key. Create a schedule that balances work and personal time, and be mindful of when you need to say ‘no to avoid overcommitting. Prioritize your well-being as much as your work."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I deal with the stress of feeling like Im not meeting my personal or professional goals?",
+        "Output Response": "Its easy to feel stressed when goals seem out of reach. Break them down into smaller, achievable tasks. Remember, progress isnt always linear, and youre making strides even when it feels slow."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling lonely despite being surrounded by people at work and at home.",
+        "Output Response": "Loneliness can still creep in, even when youre not physically alone. Take time to nurture meaningful relationships, whether by opening up to a close friend or seeking out communities that share your interests."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I dont know how to handle the pressure of being expected to perform at my best every day.",
+        "Output Response": "Its important to remember that no one is perfect all the time. Set realistic expectations for yourself, take breaks when needed, and acknowledge the effort youre putting in. You dont have to be ‘on all the time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling anxious about making the wrong decisions about my future.",
+        "Output Response": "Its normal to feel uncertain about big decisions. Take your time, gather advice, and trust that youll learn from any mistakes along the way. Sometimes, the best path forward is one step at a time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I stay positive about my career when I dont see a clear path ahead?",
+        "Output Response": "Focus on what you can control—develop your skills, build connections, and be open to new opportunities. Even when the path isnt clear, each experience adds to your personal and professional growth."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel overwhelmed by the number of responsibilities I have and dont know where to start.",
+        "Output Response": "Start by making a list and prioritizing tasks. Break things down into smaller steps, and focus on one task at a time. Its also okay to delegate and ask for help when needed."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel disconnected from my friends now that were all working and living in different places.",
+        "Output Response": "Friendships can change with time and distance, but its possible to maintain them. Make an effort to stay in touch, plan visits, and find new ways to connect, whether through video calls or shared experiences."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im worried about making the wrong career move and it affecting my future.",
+        "Output Response": "Its natural to worry about career choices. Take time to explore your options and seek advice from trusted mentors. Most of all, remember that its okay to pivot if something doesnt feel right."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I dont feel confident in my abilities at work, and Im afraid people will notice.",
+        "Output Response": "Self-doubt is common, but remember that everyone has to start somewhere. Focus on your strengths, ask for feedback, and take small steps to build your confidence over time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling overwhelmed by the demands of my job and personal life.",
+        "Output Response": "Its okay to feel overwhelmed, and its important to take a step back when needed. Prioritize your well-being, set boundaries, and allow yourself time to recharge before tackling your responsibilities."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I handle the stress of feeling behind in my career compared to my peers?",
+        "Output Response": "Everyones journey is different, and its not a race. Focus on your own progress and trust that youre exactly where you need to be. Celebrate your achievements, no matter how small they seem."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im unsure about whether I should continue pursuing a career in my current field or switch to something new.",
+        "Output Response": "Its important to reflect on what you enjoy about your field and what you want out of your career. Consider talking to people in different industries, exploring new opportunities, and giving yourself time to make an informed decision."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling to find a balance between pursuing my career and having a personal life.",
+        "Output Response": "Its challenging, but finding balance is possible. Set clear boundaries between work and personal time, and prioritize activities that bring you joy and relaxation. A healthy work-life balance is essential for long-term success."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not living up to my potential, and its frustrating.",
+        "Output Response": "Its easy to feel like youre not reaching your potential, but its important to recognize the steps youve already taken. Keep challenging yourself, set new goals, and trust that progress will come with time and effort."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im worried that Im not learning enough in my current job to build my career.",
+        "Output Response": "If you feel like youre not learning enough, it might be helpful to seek out new challenges at work. Ask for more responsibility, pursue additional training, or look for a mentor who can help guide your growth."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I maintain motivation when Im not seeing immediate results from my efforts?",
+        "Output Response": "Sometimes results take time to show up. Stay focused on the process and keep putting in the effort. Every small step forward is progress, and over time, those small efforts will add up."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im falling behind in my career and its hard to catch up.",
+        "Output Response": "Its common to feel like youre falling behind, but try to focus on the progress youve already made. Take a step-by-step approach to catching up, and reach out to others for support when needed."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling burnt out from trying to juggle work and personal responsibilities.",
+        "Output Response": "Burnout is a real concern, especially when youre balancing multiple responsibilities. Take time to rest, reassess your workload, and consider talking to a supervisor or mentor about ways to alleviate some pressure."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I stay focused and productive when Im constantly distracted at work?",
+        "Output Response": "Try setting clear goals for the day and breaking tasks into smaller steps. Minimize distractions by setting designated times for checking emails or social media. Regular breaks can also help maintain your focus."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel lost trying to figure out what my next step should be in my career.",
+        "Output Response": "Its okay to feel lost at times. Reflect on your interests and values, and consider talking to a mentor or career coach. Exploring different options will help you clarify your direction."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling uncertain about the future, and Im not sure how to prepare for whats coming.",
+        "Output Response": "The future can feel daunting, but focusing on what you can control is key. Develop skills that align with your goals, and remain open to new opportunities as they arise. Trust in your ability to adapt."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I make sure my work doesnt affect my mental health?",
+        "Output Response": "Mental health should always be a priority. Set boundaries, take regular breaks, and make time for activities that relax you. Dont hesitate to talk to a therapist or counselor if work stress is becoming overwhelming."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel anxious when thinking about my future career and whether Ill be successful.",
+        "Output Response": "Its natural to feel anxious about the future. Focus on the skills youre building right now, and remind yourself that success doesnt look the same for everyone. Take things one step at a time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not as successful as my peers, and it makes me question my choices.",
+        "Output Response": "Everyone has a unique path, and comparing yourself to others doesnt help. Focus on your progress and the things youve learned. Your journey is valid, and its okay to take it at your own pace."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im overwhelmed by the idea of managing my finances as an adult.",
+        "Output Response": "Managing finances as an adult can seem overwhelming, but breaking it down into manageable steps helps. Start with budgeting, saving, and planning for short-term and long-term goals. Take it one step at a time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I handle the stress of being the only one at work who isnt a manager?",
+        "Output Response": "Not being in a management position doesnt diminish your value. Use this time to learn from others, build your skills, and prove your leadership in smaller ways. Managers were once in your shoes too."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with self-doubt at work, and its making me question my abilities.",
+        "Output Response": "Self-doubt is normal, but it doesnt define your abilities. Keep track of your achievements and remind yourself of the positive feedback youve received. Youre capable, and growth takes time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I stay motivated when I feel like Im not making any progress at work?",
+        "Output Response": "Sometimes, progress is slow. Break your tasks into smaller, achievable goals, and celebrate the little wins. Consistent effort over time leads to growth, even if its not always immediately visible."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im under a lot of pressure at work, but I dont want to disappoint anyone.",
+        "Output Response": "Its understandable to feel pressure, but you dont have to meet every expectation perfectly. Be transparent about your workload, and ask for help when needed. Your well-being should always come first."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with finding the right balance between my career and personal life.",
+        "Output Response": "Finding balance takes time and intention. Set clear boundaries for work and personal time. Prioritize activities that recharge you, and remember its okay to take breaks to focus on yourself."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not getting the recognition I deserve at work.",
+        "Output Response": "It can be tough when recognition doesnt come easily, but your hard work matters. Consider talking to your manager about your contributions, and ask for feedback on how you can grow within the role."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I stay confident in my career when I feel like Im not as experienced as others?",
+        "Output Response": "Confidence comes with experience, but it also comes from acknowledging your value. Focus on the skills you bring to the table and the progress youve made. Everyone has to start somewhere."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling anxious about leaving my comfort zone for a new opportunity at work.",
+        "Output Response": "Its natural to feel anxious when stepping outside your comfort zone, but thats often when growth happens. Embrace the challenge as an opportunity to learn and expand your skills."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I deal with the pressure of being the youngest person on my team?",
+        "Output Response": "Being the youngest can feel intimidating, but its also an opportunity to bring fresh ideas and perspectives. Ask questions, learn from your colleagues, and take pride in what you bring to the team."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not meeting my own expectations in terms of my career growth.",
+        "Output Response": "Its important to be kind to yourself and adjust expectations as needed. Career growth takes time, and every step you take is a learning opportunity. Keep focusing on your progress, not perfection."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling lonely in my new job, and its hard to connect with people.",
+        "Output Response": "Its tough when you dont feel connected at work. Try reaching out to colleagues for lunch or coffee breaks. Finding common interests with others can help create bonds and ease that sense of loneliness."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I stop worrying about not being successful in my career?",
+        "Output Response": "Worrying about success is natural, but its important to focus on what you can control: your effort, learning, and growth. Trust that success comes with persistence, and define success on your own terms."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with a lack of motivation at work. How can I get my drive back?",
+        "Output Response": "Its normal to lose motivation at times. Try to find projects or tasks that excite you, set small goals, and celebrate the little wins. Getting back into a routine and taking breaks can also help restore your drive."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not doing enough in my career to make an impact.",
+        "Output Response": "Its easy to feel that way, but remember that every contribution matters. Even the smallest actions add up over time. Focus on the value you bring and the positive impact you're already making."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with the fear of making mistakes at work.",
+        "Output Response": "Mistakes are a natural part of growth. Instead of fearing them, try to see them as learning opportunities. Everyone makes them, and they help you improve and refine your skills."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I deal with the pressure of managing work deadlines and personal commitments?",
+        "Output Response": "Start by organizing your tasks into manageable chunks. Prioritize what needs to be done first, and dont hesitate to ask for support when you need it. Managing both takes planning, but youve got this."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im constantly in survival mode, just trying to get through the day.",
+        "Output Response": "Its exhausting to feel that way. Try to give yourself moments of respite, even if theyre short. Take breaks when you can, set boundaries, and remember its okay to take things one step at a time."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I stop comparing myself to others at work?",
+        "Output Response": "Its natural to compare ourselves, but its important to recognize that everyones journey is different. Focus on your own growth and achievements. Your path is unique, and its okay to go at your own pace."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im having trouble balancing my career ambitions with my need for personal time.",
+        "Output Response": "Striking a balance is tough, but its crucial for your well-being. Set clear boundaries, be mindful of overcommitting, and take time to recharge when you need it. Your personal life matters just as much as your career."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I deal with the pressure of having to constantly prove myself at work?",
+        "Output Response": "Proving yourself is important, but its equally important to acknowledge your worth. Focus on building trust through your work and recognize that you dont have to constantly justify your abilities to others."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling burnt out and exhausted by my job.",
+        "Output Response": "Burnout is real, and its essential to listen to your body. Take time off if you need to recharge, and prioritize self-care. Talk to your supervisor about your workload and discuss ways to alleviate some of the pressure."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel overwhelmed with the idea of taking on new responsibilities at work.",
+        "Output Response": "Taking on new responsibilities can feel overwhelming, but remember that you dont have to do everything at once. Break tasks down into smaller steps and trust that youll grow into the role with time and experience."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im worried that Im not building enough professional connections.",
+        "Output Response": "Building connections takes time, and its okay to start small. Attend networking events, join professional groups, and be open to learning from others. Its more about quality than quantity when it comes to relationships."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling a lack of direction in my career path.",
+        "Output Response": "Its normal to feel unsure about your direction. Take time to assess your values and passions. Seeking guidance from a mentor or career coach can also help provide clarity and new perspectives."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How do I overcome the feeling that Im not capable of doing my job well?",
+        "Output Response": "Its common to feel this way, but you are more capable than you think. Focus on your strengths, seek feedback, and take time to reflect on your past successes. Youre constantly learning and growing."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im anxious about not being able to manage work and personal responsibilities.",
+        "Output Response": "Managing both can be stressful, but creating a structured schedule can help you stay organized. Remember to set aside time for yourself, and dont be afraid to ask for help when needed."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I improve my communication skills at work?",
+        "Output Response": "Improving communication involves actively listening and expressing your ideas clearly. Try asking for feedback from colleagues, participating in discussions, and practicing being open and concise with your thoughts."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im feeling anxious about the future and unsure about my career choices.",
+        "Output Response": "Its okay to feel uncertain. Reflect on what you enjoy and what excites you about your work. Trust that youll find your path, and if you need to adjust along the way, thats perfectly fine."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im not growing fast enough in my career.",
+        "Output Response": "Career growth can take time, and its important to recognize the progress youve made. Focus on building new skills, taking on challenges, and seeking feedback. Growth is often slow, but its steady."
+    },
+    {
+        "Age": 23,
+        "Input Text": "Im struggling with being constantly busy and never having time to relax.",
+        "Output Response": "Its crucial to make time for yourself. Even if its just a few minutes a day, prioritize relaxation. Reevaluate your schedule, and remember that rest is essential for long-term productivity."
+    },
+    {
+        "Age": 23,
+        "Input Text": "I feel like Im stuck in a cycle of self-doubt at work.",
+        "Output Response": "Self-doubt can be challenging, but it doesnt define your abilities. Reflect on past achievements and how far youve come. Practice positive affirmations and seek support from trusted colleagues when youre feeling unsure."
+    },
+    {
+        "Age": 23,
+        "Input Text": "How can I keep improving my skills when I feel overwhelmed by everything I need to learn?",
+        "Output Response": "Take it one step at a time. Break down what you need to learn into smaller, manageable tasks. Focus on one skill at a time, and remember that progress is often incremental."
+    }
+]
+
+
+
+

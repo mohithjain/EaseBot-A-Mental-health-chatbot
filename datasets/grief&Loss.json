@@ -1,0 +1,297 @@
+[
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I cope with losing a loved one?",
+        "Output Response": "Take it one day at a time. Allow yourself to grieve and talk to trusted friends or a therapist. Everyones journey is unique, so be patient with yourself."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Is it normal to feel angry after a loss?",
+        "Output Response": "Yes, anger is a common part of grief. It can stem from feelings of helplessness or unfairness. Express your emotions in healthy ways, like journaling or talking to someone you trust."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I handle grief while trying to stay functional at work?",
+        "Output Response": "Communicate with your employer if you need flexibility. Break tasks into smaller steps, and seek support from coworkers or loved ones during challenging days."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "What should I do if I feel numb after a loss?",
+        "Output Response": "Numbness can be a natural defense mechanism during grief. Give yourself time to process and engage in activities that bring comfort or help you reconnect with emotions."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How can I support a friend who is grieving?",
+        "Output Response": "Be present and listen without judgment. Offer practical help, like running errands or cooking meals. Let them set the pace for conversations about their loss."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Is it okay to feel happy sometimes while grieving?",
+        "Output Response": "Absolutely. Experiencing moments of joy doesnt mean youve forgotten your loss. Embrace those feelings as part of healing and moving forward."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I deal with the guilt of not being there when someone passed away?",
+        "Output Response": "Remind yourself that you did the best you could with what you knew at the time. Talking to a therapist can help you process these feelings."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How can I remember a loved one without feeling overwhelmed by sadness?",
+        "Output Response": "Create a memory box, plant a tree, or celebrate their life on special occasions. Focus on the joy they brought rather than the pain of their absence."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Is it normal to feel grief years after a loss?",
+        "Output Response": "Yes, grief can resurface at unexpected times, especially on anniversaries or during significant life events. Allow yourself to feel and honor those emotions."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I handle family disputes after a loss?",
+        "Output Response": "Emotions can run high during grief. Approach conflicts with empathy and try to focus on shared memories or goals. Mediation can also help in complex situations."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I explain death to a child?",
+        "Output Response": "Use simple, honest language. Answer their questions and reassure them its okay to feel sad. Share comforting memories and allow them to express their emotions."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "What are some healthy ways to honor a loved ones memory?",
+        "Output Response": "Create a scrapbook, participate in causes they cared about, or organize a gathering in their memory. Doing something meaningful can bring comfort."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I deal with the fear of losing someone else after a loss?",
+        "Output Response": "Acknowledge your fears and focus on cherishing your current relationships. Mindfulness and therapy can help you navigate these emotions."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I manage grief during the holidays?",
+        "Output Response": "Plan ahead and set boundaries for events. Include traditions that honor your loved one and seek support if the season feels overwhelming."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Is it normal to feel physically exhausted while grieving?",
+        "Output Response": "Yes, grief affects both the mind and body. Prioritize rest, eat nourishing foods, and engage in light activities to rebuild energy."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How can I find closure after a sudden loss?",
+        "Output Response": "Closure often takes time. Write a letter to express your feelings, or talk to a therapist. Rituals like memorials can help you process and find peace."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Whats the difference between grief and depression?",
+        "Output Response": "Grief is a natural response to loss, while depression is a mental health condition. If sadness feels unrelenting or affects daily life for a long time, seek professional help."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I deal with people who say hurtful things about my loss?",
+        "Output Response": "Remember that people often mean well but may not know what to say. Respond kindly or set boundaries if their comments are too upsetting."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How can I connect with others going through similar losses?",
+        "Output Response": "Join a support group or attend grief counseling sessions. Sharing experiences with those who understand can provide comfort and perspective."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I cope with losing a pet?",
+        "Output Response": "Losing a pet can be deeply painful. Celebrate the joy they brought into your life through photos, rituals, or sharing stories with others who understand."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I lost someone close to me, and its hard to focus on anything now.",
+        "Output Response": "Its normal to feel this way after a loss. Allow yourself time to grieve, and try to tackle small tasks when you feel ready. Seek support from loved ones or a counselor."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I manage the sadness that keeps coming back after losing my partner?",
+        "Output Response": "Grief often comes in waves. When sadness hits, allow yourself to feel it, and then engage in activities that bring comfort. Talking to a support group might also help."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Why do I feel guilty about moving forward after losing my best friend?",
+        "Output Response": "Feeling guilty is common, but moving forward doesnt mean youre forgetting them. Honor their memory by living in a way they would be proud of."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Its been years since I lost someone, but I still cry sometimes. Is this normal?",
+        "Output Response": "Yes, grief can resurface even after years. Its okay to feel and express your emotions. Embrace the memories and allow yourself to grieve when needed."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I handle reminders of my loved ones passing at unexpected moments?",
+        "Output Response": "These reminders can be bittersweet. Try to focus on the positive memories and let yourself feel whatever emotions come up in the moment."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I feel like no one understands my grief. What should I do?",
+        "Output Response": "Grief is a deeply personal experience. Consider joining a support group or speaking with a therapist who can provide a safe space to share your feelings."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I explain to my boss that grief is affecting my work performance?",
+        "Output Response": "Be honest and concise. Let them know youre grieving and might need some time to adjust. Most employers will understand and may offer support or flexibility."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Im worried about forgetting my loved one. What can I do to keep their memory alive?",
+        "Output Response": "Create traditions or rituals in their honor, like lighting a candle, keeping a journal of memories, or sharing their stories with others."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Is it okay to avoid places that remind me of my loss?",
+        "Output Response": "Its okay to take a break from triggering places, but over time, gradually revisiting them may help you make peace with the memories."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I stop feeling overwhelmed by grief during family gatherings?",
+        "Output Response": "Take breaks when needed and dont hesitate to step away if emotions become overwhelming. Share your feelings with someone you trust at the gathering."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I lost my sibling, and now I feel like I have to be strong for everyone else.",
+        "Output Response": "Being strong doesnt mean you cant grieve too. Its important to allow yourself space to process your feelings and seek support if needed."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I support my parent who lost their partner while managing my own grief?",
+        "Output Response": "Support them by listening and being present, but also take time to care for yourself. Share your grief and memories together to foster healing."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I feel like my friends dont want to talk about my loss anymore. What should I do?",
+        "Output Response": "Grief can be isolating at times. Consider joining a grief support group or finding a counselor to talk to if your friends are unable to provide the support you need."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Why does everything feel meaningless after my partners death?",
+        "Output Response": "Loss can leave a void thats hard to fill. Gradually, finding small joys and meaningful activities can help rebuild a sense of purpose."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I lost my job while grieving, and I feel completely lost now.",
+        "Output Response": "Grieving and job loss together can feel overwhelming. Break tasks into manageable steps, focus on self-care, and seek support from loved ones or a counselor."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I explain my grief to someone who hasnt experienced loss?",
+        "Output Response": "Use simple, honest words to share how youre feeling. Let them know what kind of support you need, whether its listening or just being there for you."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Ive been using work to distract myself from grief. Is that unhealthy?",
+        "Output Response": "Keeping busy can be helpful temporarily, but its important to address your grief. Make time to process your emotions, even if its a little each day."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I handle the anniversary of losing someone?",
+        "Output Response": "Plan something meaningful, like visiting a place they loved or doing an activity in their honor. Surround yourself with supportive people and give yourself permission to grieve."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I rebuild my life after losing my spouse?",
+        "Output Response": "Start by focusing on small, manageable steps. Seek support from friends, family, or a counselor, and gradually explore activities that bring you joy or fulfillment."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I cope with losing someone to a sudden accident?",
+        "Output Response": "Sudden losses are especially hard because they leave no time to prepare. Focus on grounding techniques, reach out to supportive friends or family, and consider grief counseling to help process the shock."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I lost my parent, and now I feel like I have to take care of everyone else. What should I do?",
+        "Output Response": "Its natural to want to support others, but your well-being matters too. Set boundaries when needed and make time for your own grief and healing."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I feel like people around me expect me to move on already. How do I handle that?",
+        "Output Response": "Grief doesnt follow a timeline. Politely let them know that everyone grieves differently and that you need to process it in your own way."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Is it normal to feel resentment towards others who didnt experience my loss?",
+        "Output Response": "Yes, resentment can arise from feeling isolated in your grief. Try to focus on building connections with people who empathize with your experience."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I lost a friend years ago, but I still feel like I let them down. What should I do?",
+        "Output Response": "Its common to feel regret after a loss. Consider writing a letter to your friend expressing your feelings. Therapy can also help you work through unresolved guilt."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "What should I do if grief is making it hard for me to eat or sleep?",
+        "Output Response": "Grief can disrupt your routine. Start small by focusing on one healthy meal or relaxation technique per day. Seek professional help if these issues persist."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How can I support my child who lost their grandparent?",
+        "Output Response": "Be honest with them, using age-appropriate language. Encourage them to share their feelings and offer comfort through hugs, stories, or keeping special mementos."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I honor a loved one during significant life events, like weddings or graduations?",
+        "Output Response": "You could include a moment of silence, a special mention, or a keepsake in their memory. Celebrate their influence on your journey in a way that feels meaningful."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "Why does grief feel worse at night?",
+        "Output Response": "Nighttime often brings quiet moments where emotions surface more intensely. Try journaling or practicing mindfulness before bed to manage these feelings."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I feel like my grief is affecting my friendships. What should I do?",
+        "Output Response": "Open up to your friends about how youre feeling and let them know how they can support you. True friends will want to be there for you."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How can I find a way to feel joy again after a major loss?",
+        "Output Response": "Start with small moments of gratitude or activities you used to enjoy. Healing takes time, so be gentle with yourself as you rediscover joy."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "What should I do if I feel stuck in my grief and unable to move forward?",
+        "Output Response": "Feeling stuck is a sign to seek support. A therapist can help you process unresolved emotions and find ways to navigate your grief more effectively."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I deal with anniversaries of a loved ones death?",
+        "Output Response": "Plan ahead by deciding how you want to spend the day. You might light a candle, visit a special place, or spend time with supportive people."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I lost my partner, and now Im scared to form new relationships. How do I overcome this?",
+        "Output Response": "Take your time to heal and set your own pace. When you're ready, focus on building connections based on trust and shared values. Therapy can also help you address these fears."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I handle the loss of a mentor who was a huge influence on my life?",
+        "Output Response": "Reflect on their teachings and incorporate their wisdom into your life. Writing about your memories with them can also provide comfort and clarity."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "I feel like Im grieving differently than my family members. Is this okay?",
+        "Output Response": "Yes, grief is deeply personal, and everyone processes it differently. Respect each others ways of coping, and find moments to support one another."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I talk to my kids about losing their pet?",
+        "Output Response": "Use simple language and be honest. Allow them to express their feelings and consider creating a small ceremony to say goodbye."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How can I balance grief with other responsibilities like work or parenting?",
+        "Output Response": "Set realistic goals and prioritize self-care. Dont hesitate to ask for help from family, friends, or coworkers when you need support."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "What if I dont feel anything after a loss?",
+        "Output Response": "Feeling numb is a natural part of grief for some people. Give yourself time, and try engaging in activities that help you connect with your emotions."
+    },
+    {
+        "Category": "Grief & Loss",
+        "Input Text": "How do I cope with the sudden loss of a coworker?",
+        "Output Response": "Sudden losses can be jarring. Share memories with other coworkers, attend any memorials, and consider talking to a grief counselor to process your emotions."
+    }
+]

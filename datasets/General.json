@@ -1,0 +1,182 @@
+[
+    {
+        "Category": "General",
+        "Input Text": "Ive been feeling really down lately, but I dont know why. What should I do?",
+        "Output Response": "Its okay to feel this way sometimes. Try to reflect on what might be affecting your mood—like stress, relationships, or even physical health. Journaling or talking to someone you trust can help clarify your feelings. If it continues, consider reaching out to a mental health professional for guidance."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I handle days when I feel completely unmotivated?",
+        "Output Response": "Everyone has unmotivated days, and its okay to give yourself permission to rest. Start small—set one easy task to accomplish, like tidying up or going for a short walk. Often, momentum builds as you complete small steps. If its a persistent issue, it might help to explore underlying causes."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I often feel anxious when thinking about the future. How do I cope with this?",
+        "Output Response": "Anxiety about the future is normal. Try focusing on the present moment and what you can control. Break down your worries into smaller, actionable steps, and practice mindfulness techniques like deep breathing. Remember, its okay to not have everything figured out."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How can I manage my stress better?",
+        "Output Response": "Managing stress starts with recognizing your triggers. Try incorporating relaxation techniques like deep breathing, yoga, or meditation into your daily routine. Prioritize your tasks, take regular breaks, and dont hesitate to ask for help when needed. Self-care is key to handling stress effectively."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I feel like Im not good enough compared to others. What should I do?",
+        "Output Response": "Its easy to fall into the trap of comparison, but remember that everyones journey is different. Focus on your strengths and achievements, no matter how small they may seem. Practice gratitude and self-compassion. Surround yourself with people who support and uplift you."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I find it hard to say no to people. How can I set boundaries?",
+        "Output Response": "Setting boundaries is an act of self-care. Start by identifying your limits and communicating them clearly but kindly. Practice saying no to small requests first, and remember that its okay to prioritize your well-being. People who care about you will understand and respect your boundaries."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Ive been feeling really lonely. How do I feel more connected?",
+        "Output Response": "Loneliness can be tough. Try reaching out to friends or family, even for a quick chat. Join a group or community with shared interests—whether its online or in-person. Volunteering or participating in activities you enjoy can also help you feel more connected to others."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I stop overthinking everything?",
+        "Output Response": "Overthinking can be overwhelming. Try focusing on whats within your control and let go of what isnt. Techniques like journaling or talking through your thoughts with someone can help. Practice mindfulness or grounding exercises to keep yourself anchored in the present moment."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Ive been struggling to sleep because of stress. Any tips?",
+        "Output Response": "Stress can disrupt sleep, but there are steps you can take. Create a calming bedtime routine—like reading, meditating, or listening to relaxing music. Avoid screens before bed and try deep breathing exercises. If it persists, a doctor or therapist might provide additional help."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I know if I need therapy?",
+        "Output Response": "Therapy can be helpful if youre feeling stuck, overwhelmed, or struggling to cope. Its not just for major issues—its also a space for personal growth and self-discovery. If youre unsure, talking to a trusted professional or counselor can help you decide if its right for you."
+    },
+    {
+        "Category": "General",
+        "Input Text": "What can I do to boost my confidence?",
+        "Output Response": "Building confidence takes time. Start by celebrating your achievements, no matter how small. Challenge negative self-talk and replace it with positive affirmations. Step out of your comfort zone little by little, and remember, confidence grows with each step you take."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How can I stay positive when everything feels overwhelming?",
+        "Output Response": "Staying positive doesnt mean ignoring challenges—its about finding moments of hope and gratitude. Focus on small victories, practice self-care, and lean on supportive people in your life. Remember, tough times pass, and its okay to ask for help when needed."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im afraid to talk about my feelings. How do I open up?",
+        "Output Response": "Opening up can feel vulnerable, but its an important step towards healing. Start small—share with someone you trust, like a friend or family member. Writing down your feelings beforehand can help you organize your thoughts. Remember, expressing your emotions is a sign of strength, not weakness."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I handle criticism without taking it personally?",
+        "Output Response": "Criticism can be hard to hear, but try to see it as an opportunity for growth. Separate the feedback from your self-worth—criticism is about the action, not you as a person. Take whats constructive and let go of what isnt helpful."
+    },
+    {
+        "Category": "General",
+        "Input Text": "What can I do to improve my relationships with others?",
+        "Output Response": "Strong relationships are built on communication, trust, and empathy. Practice active listening, express appreciation, and be honest about your needs. Invest time in understanding others perspectives, and dont shy away from addressing conflicts respectfully when they arise."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im feeling disconnected from my friends lately. How can I reconnect?",
+        "Output Response": "Reconnection starts with open communication. Reach out to your friends, express how youre feeling, and make an effort to spend quality time together. Sometimes, just asking how theyre doing can spark a meaningful conversation. Be patient, as relationships require effort from both sides."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I feel like Im always letting people down. How do I stop feeling like this?",
+        "Output Response": "Its important to acknowledge that youre doing your best. No one can meet everyones expectations all the time, and thats okay. Practice setting realistic boundaries and communicating your limits clearly. Remind yourself that its okay to say no or ask for help when needed."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I handle social anxiety in large groups?",
+        "Output Response": "Social anxiety is common, but it can be managed with small steps. Try deep breathing or grounding exercises before entering the situation. Start by setting small, achievable goals, like initiating one conversation. Over time, youll become more comfortable in these settings."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I struggle with perfectionism. How do I overcome this?",
+        "Output Response": "Perfectionism can be draining. Start by accepting that mistakes are part of growth. Set realistic expectations for yourself and focus on progress, not perfection. Challenge negative thoughts and practice self-compassion when things dont go as planned."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I feel like Im not good enough for the things I want. How do I change this mindset?",
+        "Output Response": "Its common to have self-doubt, but remind yourself that you are worthy of success and happiness. Break down your goals into small, achievable steps, and focus on the progress you make. Positive affirmations and self-compassion can also help shift your mindset."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I dont know how to deal with all the responsibilities I have. What can I do?",
+        "Output Response": "Managing responsibilities can be overwhelming. Start by prioritizing tasks and breaking them down into smaller steps. Delegate when possible and take regular breaks to avoid burnout. Dont hesitate to ask for support when needed—theres no shame in seeking help."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im feeling very isolated at work. How do I make friends or connect with colleagues?",
+        "Output Response": "Start by engaging in casual conversations or joining team activities. Look for common interests and take small steps to get to know your colleagues better. Sometimes, just showing interest in others can spark meaningful connections. Remember, it takes time to build friendships."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I deal with feelings of anger that I cant control?",
+        "Output Response": "Anger is a natural emotion, but its important to manage it constructively. Try deep breathing or physical activities like walking or exercising to release tension. If you feel overwhelmed, it may help to take a break or talk to someone you trust about whats causing your anger."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im constantly doubting my decisions. How do I make choices with confidence?",
+        "Output Response": "Trusting your decisions comes with practice. Start by gathering all the information you need and considering your options carefully. Listen to your gut feelings and know that no decision is perfect. Remember, making decisions is a process of trial and error, and you can always adjust if needed."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im struggling to find motivation to work. How do I stay productive?",
+        "Output Response": "Start by setting clear, manageable goals. Break your tasks down into smaller steps and reward yourself when you complete them. Try changing your environment or listening to music to refresh your mind. If motivation is still low, consider whether you need a break or to reassess your goals."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I feel like everything is too much right now. How do I manage overwhelming situations?",
+        "Output Response": "When things feel overwhelming, try taking a step back and breathing deeply. Break down your tasks into smaller, more manageable parts. Prioritize the most urgent matters and take things one step at a time. Its important to take care of yourself, so dont forget to schedule rest."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How can I improve my mental health on a daily basis?",
+        "Output Response": "Start by building small, positive habits into your day. Prioritize sleep, eat nutritious food, and make time for physical activity. Practice mindfulness or meditation to reduce stress. And most importantly, make time for self-compassion—treat yourself with the kindness you deserve."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I feel like Im not making progress in my life. How can I change that?",
+        "Output Response": "Progress isnt always linear, and its okay to feel stuck sometimes. Reflect on your goals and break them down into smaller, achievable tasks. Celebrate the small wins, and remember that setbacks are part of growth. Stay patient and keep moving forward, even if its one step at a time."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im struggling with being too hard on myself. How can I be kinder to myself?",
+        "Output Response": "Self-compassion is key to well-being. Start by practicing positive self-talk and treating yourself with the same kindness youd offer a friend. Recognize that mistakes are part of being human, and instead of criticizing yourself, focus on learning and growing from experiences."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I stay motivated to work towards my long-term goals?",
+        "Output Response": "Long-term goals can feel distant, but staying motivated is possible with consistent effort. Break your goals into smaller milestones and celebrate each achievement. Stay connected to your ‘why—the reason behind your goals—and use that as fuel when motivation wanes."
+    },
+    {
+        "Category": "General",
+        "Input Text": "I often feel like Im not achieving enough. How do I deal with these feelings of inadequacy?",
+        "Output Response": "Its important to recognize that your worth isnt based on achievements alone. Reflect on your strengths and progress, even the small things. Practice gratitude for what you have accomplished. Everyone moves at their own pace, and youre doing great as you are."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How can I handle feelings of loneliness when Im surrounded by people?",
+        "Output Response": "Loneliness can still be felt even when you're with others. Try engaging more deeply with those around you—ask questions, listen, and share your thoughts. If it persists, it might help to explore the root of your feelings with a trusted person or professional."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im feeling burnt out from work and life. How do I recover from burnout?",
+        "Output Response": "Burnout happens when you push yourself too hard without enough rest. Start by acknowledging your limits and giving yourself permission to rest. Focus on self-care, like getting enough sleep, eating well, and engaging in relaxing activities. It might be helpful to talk to a counselor to work through the stress."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I stop feeling guilty for taking time for myself?",
+        "Output Response": "Self-care is essential for your well-being, and its okay to take time for yourself. Guilt can arise when we feel responsible for others needs, but remember that you cant pour from an empty cup. By caring for yourself, youll be better equipped to care for others."
+    },
+    {
+        "Category": "General",
+        "Input Text": "How do I stop worrying about what others think of me?",
+        "Output Response": "Worrying about others opinions is natural but can be limiting. Focus on your values and what truly matters to you. Practice self-acceptance and remind yourself that everyone has their own insecurities. The more you embrace who you are, the less others opinions will affect you."
+    },
+    {
+        "Category": "General",
+        "Input Text": "Im afraid of change. How do I embrace new experiences?",
+        "Output Response": "Change can be intimidating, but its also a chance to grow. Take it one step at a time and focus on the opportunities change brings. Embrace new experiences as learning moments, and remember that its okay to feel uncertain at first. Each new experience builds resilience."
+    }
+]

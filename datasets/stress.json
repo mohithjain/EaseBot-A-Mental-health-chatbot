@@ -1,0 +1,447 @@
+[
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I quickly relieve stress during a busy day?",
+        "Output Response": "Try quick stress-relief techniques like deep breathing, stretching, or stepping outside for fresh air. Even a 5-minute mindfulness exercise or listening to calming music can help reset your mind."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel overwhelmed by my responsibilities. What should I do?",
+        "Output Response": "Feeling overwhelmed can happen when too much is on your plate. Break tasks into smaller, manageable steps, prioritize what's urgent, and dont hesitate to ask for help. Remember, its okay to say no sometimes."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I manage stress from academic pressure?",
+        "Output Response": "Academic stress is common. Create a study schedule, take regular breaks, and practice self-care. Reach out to professors or peers for support if needed, and remind yourself that progress is more important than perfection."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What are some long-term strategies to reduce stress?",
+        "Output Response": "Adopting healthy habits like regular exercise, a balanced diet, and good sleep hygiene can reduce stress over time. Consider mindfulness practices like meditation or journaling to help process your thoughts and feelings."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I cant stop overthinking. How can I calm my mind?",
+        "Output Response": "Overthinking can be exhausting. Try grounding techniques like focusing on your breath or engaging your senses. Writing down your thoughts or talking to someone you trust can also help bring clarity and reduce mental clutter."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I cope with stress when I cant change the situation?",
+        "Output Response": "Sometimes, you cant change the situation, but you can change how you respond. Focus on what you can control, like your mindset or actions. Relaxation techniques and reframing your perspective can also help."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Whats the best way to unwind after a stressful day?",
+        "Output Response": "Unwinding can involve activities that relax your mind and body. Try a warm bath, reading a book, light exercise, or a favorite hobby. Experiment to find what works best for you."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I stop stressing about things out of my control?",
+        "Output Response": "Focus on what you can influence rather than dwelling on what you can't. Practice acceptance and mindfulness to stay present. Redirect your energy into productive or enjoyable activities to regain a sense of control."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel like Im always on edge. What should I do?",
+        "Output Response": "Feeling constantly on edge may mean you need to adjust your stress management routine. Incorporate calming activities like yoga, journaling, or spending time in nature into your daily life. If it persists, consider speaking with a professional."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Can technology help reduce stress?",
+        "Output Response": "Technology can both cause and reduce stress. Use apps for guided meditation, breathing exercises, or time management. However, ensure you take regular breaks from screens to avoid digital fatigue."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I create a stress-free morning routine?",
+        "Output Response": "A stress-free morning starts with preparation. Lay out your clothes, plan your meals, and organize your tasks the night before. In the morning, wake up a bit earlier to allow time for a calming activity like stretching or journaling."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if I wake up feeling stressed?",
+        "Output Response": "Start your day with grounding practices like deep breathing or a short meditation. Write down your worries to clear your mind, and set realistic priorities for the day to regain a sense of control."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I manage stress from workplace deadlines?",
+        "Output Response": "Workplace deadlines can feel overwhelming. Break tasks into smaller chunks, set achievable milestones, and use tools like calendars or to-do lists. Communicate with your team or supervisor if you need adjustments or support."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel drained by social interactions. How can I recharge?",
+        "Output Response": "Its okay to need time alone to recharge. Schedule quiet time after social events to relax with activities you enjoy. Practice saying no to commitments if you feel overstretched, and prioritize your energy."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I stay calm during a stressful event?",
+        "Output Response": "During a stressful event, focus on your breath and try grounding techniques like the 5-4-3-2-1 method: name things you can see, hear, touch, smell, and taste. Remind yourself that the situation is temporary."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What are some foods that help reduce stress?",
+        "Output Response": "Foods rich in nutrients like omega-3s, magnesium, and antioxidants can help reduce stress. Try adding nuts, seeds, leafy greens, fatty fish, and berries to your diet. Avoid excess caffeine or sugar, which can increase anxiety."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I prevent burnout?",
+        "Output Response": "Preventing burnout involves maintaining a healthy work-life balance. Set boundaries, prioritize self-care, and make time for activities that bring you joy. Regularly check in with yourself to assess and adjust your workload."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What role does exercise play in stress relief?",
+        "Output Response": "Exercise is a powerful stress reliever. It releases endorphins, which improve mood, and helps reduce tension in your body. Activities like yoga, running, or even a brisk walk can make a big difference."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I often feel stressed in crowded places. How can I cope?",
+        "Output Response": "Crowded places can be overwhelming. Use techniques like controlled breathing or listening to calming music with headphones. If possible, take breaks in quieter areas and plan visits during less busy times."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I deal with stress when I dont have time for a break?",
+        "Output Response": "Even a few minutes can make a difference. Practice micro-relaxation techniques like closing your eyes, breathing deeply, or visualizing a calming place. These quick resets can help you manage stress on the go."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I get headaches from stress. What can I do?",
+        "Output Response": "Stress headaches can be alleviated by managing tension in your neck and shoulders with stretches or massage. Stay hydrated, take regular breaks from screens, and practice relaxation techniques like deep breathing."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I help a friend who is extremely stressed?",
+        "Output Response": "Support your friend by listening without judgment and offering empathy. Encourage them to take breaks, prioritize self-care, and seek professional help if needed. Sometimes, just being there for them can make a big difference."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I handle stress when I feel like crying all the time?",
+        "Output Response": "Crying is a natural stress response. Let yourself express emotions, then focus on calming activities like journaling, talking to a friend, or engaging in something creative. If it feels overwhelming, consider reaching out to a therapist."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I stop procrastinating when I feel stressed?",
+        "Output Response": "Procrastination often increases stress. Break tasks into smaller steps and start with the easiest part to build momentum. Use tools like timers or productivity apps to stay focused, and reward yourself for completing tasks."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I handle stress from family conflicts?",
+        "Output Response": "Family conflicts can be emotionally taxing. Practice active listening and express your feelings calmly. Set boundaries where needed, and dont hesitate to step back to protect your mental well-being."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I cant sleep because of stress. What should I do?",
+        "Output Response": "Stress can disrupt sleep. Establish a calming bedtime routine, avoid screens before bed, and try relaxation techniques like deep breathing or meditation. If worries keep you awake, write them down to clear your mind."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Whats the best way to handle stress at social events?",
+        "Output Response": "Social events can be stressful for some people. Arrive early to ease into the environment, take breaks when needed, and practice deep breathing to stay calm. Focus on meaningful interactions rather than trying to please everyone."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I use nature to reduce stress?",
+        "Output Response": "Spending time in nature is proven to lower stress levels. Take a walk in the park, sit near a body of water, or simply enjoy fresh air. Nature helps calm your mind and improve focus."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if I feel paralyzed by stress?",
+        "Output Response": "Feeling paralyzed by stress is overwhelming. Start by grounding yourself with deep breaths or physical movement. Break your tasks into the tiniest steps possible and focus on just one at a time."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel guilty for taking breaks when stressed. How can I change this?",
+        "Output Response": "Taking breaks is essential for productivity and mental health. Remind yourself that rest makes you more effective. View breaks as an investment in your well-being rather than a luxury."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I deal with stress from constant notifications on my phone?",
+        "Output Response": "Constant notifications can be overwhelming. Set boundaries by silencing non-essential notifications, using focus modes, or scheduling tech-free times during the day to recharge."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I manage stress when I feel I have no time for myself?",
+        "Output Response": "Even during busy times, its important to carve out moments for yourself. Start with just 5-10 minutes a day for something calming, like deep breathing or a quick walk. Prioritize self-care as a non-negotiable part of your routine."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel like Im failing because of stress. How do I handle this?",
+        "Output Response": "Feeling like you're failing is tough, but its important to practice self-compassion. Reflect on small wins, reframe challenges as opportunities, and remember that seeking help when needed is a sign of strength, not failure."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I use journaling to reduce stress?",
+        "Output Response": "Journaling helps organize your thoughts and release pent-up emotions. Try freewriting about your feelings, making gratitude lists, or noting stress triggers. Its a safe space to explore and process your emotions."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What are signs that my stress is becoming too much?",
+        "Output Response": "Signs of excessive stress include difficulty sleeping, irritability, physical tension, constant fatigue, and trouble focusing. If these persist, consider talking to a professional for additional support."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I avoid comparing myself to others when stressed?",
+        "Output Response": "Comparison often worsens stress. Focus on your own progress and celebrate your unique journey. Limit time on social media if it triggers negative feelings and remind yourself that everyone has their own challenges."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I tend to lash out when Im stressed. How can I manage this?",
+        "Output Response": "When you feel stress building up, pause and take a few deep breaths. Practice expressing your feelings calmly and consider journaling or talking it out later. Identifying triggers can also help you respond more thoughtfully in the future."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can music help with stress?",
+        "Output Response": "Music can be a powerful stress reliever. Upbeat songs can boost your mood, while slower, calming tunes can help you relax. Create playlists tailored to your emotional needs to use as a tool for managing stress."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if stress is affecting my appetite?",
+        "Output Response": "Stress can disrupt eating habits. If you lose your appetite, try eating small, nutrient-rich snacks. If stress causes overeating, practice mindful eating by focusing on each bite. Staying hydrated can also help regulate your body."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I reduce stress before a big presentation?",
+        "Output Response": "Preparation is key to reducing stress before a presentation. Practice multiple times, visualize success, and use breathing techniques to stay calm. Arrive early to get comfortable with the environment."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I manage stress during family holidays?",
+        "Output Response": "Holidays can be stressful. Set realistic expectations, plan ahead to minimize last-minute stress, and carve out quiet moments for yourself. Communicate boundaries with family members if needed."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What are some quick stress-busting activities I can do at my desk?",
+        "Output Response": "At your desk, try quick stretches, deep breathing exercises, or a short mindfulness practice. Even tidying up your workspace or looking at nature photos can provide a mental reset."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel like stress is impacting my friendships. What can I do?",
+        "Output Response": "Stress can strain relationships. Be open about your feelings with friends and let them know how they can support you. Set aside time for positive, low-pressure interactions to maintain your connections."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I stop stress from affecting my productivity?",
+        "Output Response": "When stress impacts productivity, focus on small, manageable goals to regain momentum. Break tasks into smaller steps, prioritize important items, and schedule short breaks to recharge during work."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel guilty when I take time off work to de-stress. How can I change this?",
+        "Output Response": "Taking time off is essential for long-term productivity and mental health. Remind yourself that rest helps you perform better. View self-care as an investment in your well-being, not a luxury."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I prevent stress from affecting my sleep?",
+        "Output Response": "Create a bedtime routine that signals relaxation, like reading, meditating, or taking a warm bath. Avoid screens before bed and keep a consistent sleep schedule to promote better rest."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I handle stress caused by uncertainty?",
+        "Output Response": "Uncertainty can be tough. Focus on what you can control, like your reactions and small actionable steps. Practice mindfulness to stay present and remind yourself that it's okay not to have all the answers."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I manage stress in group projects?",
+        "Output Response": "In group projects, clear communication is key. Set expectations early, divide tasks fairly, and establish a timeline. Regular check-ins can help ensure everyone stays on track, reducing stress for the group."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if stress makes me feel isolated?",
+        "Output Response": "Reach out to a trusted friend, family member, or counselor. Joining a support group or engaging in community activities can help you feel connected and supported during stressful times."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Can humor help with stress?",
+        "Output Response": "Absolutely! Laughter reduces stress hormones and triggers feel-good chemicals in the brain. Watch a funny video, spend time with someone who makes you laugh, or revisit your favorite comedy."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I manage stress when I feel overwhelmed by my to-do list?",
+        "Output Response": "Start by prioritizing tasks. Focus on the most important ones first and break them into smaller, manageable steps. Remember, its okay to delegate or postpone less critical tasks."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What role does gratitude play in reducing stress?",
+        "Output Response": "Practicing gratitude can shift your focus from stressors to positive aspects of your life. Take a few minutes daily to write down things youre thankful for—it can help you feel more grounded and resilient."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I handle stress when Im constantly on the go?",
+        "Output Response": "In a busy schedule, use short moments for relaxation. Try deep breathing during commutes or take a quick mindfulness break between tasks. Prioritize small habits like staying hydrated and eating balanced meals."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel physically tense when Im stressed. What can I do?",
+        "Output Response": "Physical tension is common with stress. Stretching, yoga, or progressive muscle relaxation can help. Even a few minutes of gentle exercise can release built-up tension and improve your mood."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I handle stress during major life changes?",
+        "Output Response": "Major life changes can be overwhelming. Focus on what you can control, create a routine, and lean on your support network. Remind yourself that adjusting takes time, and its okay to seek help."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if stress is affecting my concentration?",
+        "Output Response": "When stress affects concentration, try taking short breaks to reset your mind. Practice mindfulness or grounding techniques and consider adjusting your environment to reduce distractions."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I use mindfulness to reduce stress?",
+        "Output Response": "Mindfulness involves focusing on the present moment. Practice deep breathing, meditation, or mindful walking to help calm your mind. Its a great way to create space between you and your stressors."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel guilty for asking for help when stressed. What should I do?",
+        "Output Response": "Asking for help is a sign of strength, not weakness. Remind yourself that everyone needs support sometimes. Practice communicating your needs clearly and trust that others want to help."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I manage stress caused by perfectionism?",
+        "Output Response": "Perfectionism can heighten stress. Focus on progress over perfection and set realistic goals. Celebrate your achievements, even small ones, and remind yourself that mistakes are part of growth."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Whats a good way to manage stress during exams?",
+        "Output Response": "During exams, plan study sessions in advance and take regular breaks to avoid burnout. Stay hydrated, eat nutritious meals, and practice relaxation techniques to keep your mind sharp."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I create a calming space at home to reduce stress?",
+        "Output Response": "Create a calming space by decluttering, adding cozy elements like blankets, and incorporating soothing colors. Consider using aromatherapy with scents like lavender or playing calming music to enhance relaxation."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What can I do if I feel like I cant keep up with everything?",
+        "Output Response": "Feeling like you cant keep up is tough. Step back, reassess your priorities, and focus on one task at a time. Remember, its okay to say no or seek support to lighten your load."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I stop stressing about things I cant control?",
+        "Output Response": "Focus on what you can influence and let go of the rest. Practice acceptance through mindfulness or journaling. Remind yourself that worrying doesnt change outcomes, but it does drain your energy."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel like Im always rushing. How can I slow down?",
+        "Output Response": "Start by building buffer time into your schedule to avoid rushing. Practice being present in the moment and remind yourself that slowing down doesnt mean being less productive."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I manage stress while juggling multiple responsibilities?",
+        "Output Response": "Managing multiple responsibilities requires prioritization and organization. Use tools like planners or apps to keep track of tasks, and dont hesitate to delegate when possible."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "I feel stressed after watching the news. How can I cope?",
+        "Output Response": "Limit your news consumption to a set time each day and focus on reliable sources. Balance the information with uplifting or neutral content to avoid feeling overwhelmed."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can breathing exercises help with stress?",
+        "Output Response": "Breathing exercises reduce stress by calming your nervous system. Try inhaling deeply through your nose for four counts, holding for four, and exhaling for four. Its a quick way to regain focus and calm."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if stress makes me irritable?",
+        "Output Response": "When stress causes irritability, take time to cool off before responding to situations. Practice relaxation techniques like deep breathing, and reflect on the root causes of your stress to address them proactively."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can hobbies help reduce stress?",
+        "Output Response": "Engaging in hobbies you enjoy helps redirect your focus and provide a sense of accomplishment. Whether its art, sports, or gardening, hobbies allow your mind to rest and recharge."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can nature help in reducing stress?",
+        "Output Response": "Spending time in nature helps lower stress levels by reducing cortisol and boosting your mood. Try walking in a park, sitting near water, or simply enjoying a few moments outdoors."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if stress makes me procrastinate?",
+        "Output Response": "Procrastination can be a stress response. Break tasks into smaller steps, set achievable deadlines, and reward yourself for progress. Starting with an easy task can build momentum."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I cope with stress when I have no energy?",
+        "Output Response": "Start small—try low-energy activities like listening to music or journaling. Rest if you need to, and focus on basic self-care like eating and staying hydrated to gradually regain energy."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Whats a simple morning routine to reduce stress for the day?",
+        "Output Response": "Start your day with a calming routine: drink water, do light stretching, or meditate for five minutes. A structured start can set a positive tone for the rest of your day."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I prevent stress from affecting my social life?",
+        "Output Response": "When stress impacts your social life, communicate with friends about your feelings. Schedule low-pressure activities that bring you joy and balance time for connection with time for yourself."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What role does exercise play in stress relief?",
+        "Output Response": "Exercise helps by releasing endorphins, which improve your mood and reduce stress hormones. Even short activities like walking or stretching can have a positive impact on your mental health."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I avoid stress eating?",
+        "Output Response": "When you feel the urge to stress eat, pause and ask yourself if youre truly hungry. Distract yourself with an activity, drink water, or opt for healthy snacks like fruits or nuts."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can I reduce stress while commuting?",
+        "Output Response": "Use commuting time to relax. Listen to calming music, a podcast, or try a guided meditation app. If possible, leave early to reduce the stress of rushing."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if stress causes me to overthink?",
+        "Output Response": "Overthinking can intensify stress. Practice mindfulness to focus on the present moment and limit rumination. Write down your thoughts to process them and challenge any unhelpful beliefs."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How can aromatherapy help with stress?",
+        "Output Response": "Aromatherapy uses scents like lavender, chamomile, or citrus to promote relaxation. Use essential oils in a diffuser, add them to a bath, or simply inhale from a tissue for a quick calming effect."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I handle stress caused by perfectionist coworkers?",
+        "Output Response": "Set clear boundaries and focus on your own responsibilities. Communicate openly if their behavior adds pressure, and practice self-compassion to counter any feelings of inadequacy."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What can I do to reduce stress from financial concerns?",
+        "Output Response": "Start by creating a realistic budget and prioritizing essential expenses. Seek financial advice if needed and focus on small steps to improve your situation over time. Practicing gratitude for what you have can also help."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Can gratitude journaling really help with stress?",
+        "Output Response": "Yes, gratitude journaling shifts your focus to positive aspects of life. Write down three things youre grateful for daily to build a habit that improves resilience against stress."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What should I do if stress leads to insomnia?",
+        "Output Response": "Create a calming bedtime routine—avoid screens, dim the lights, and relax with reading or meditation. If worries keep you up, jot them down to revisit during the day."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I handle stress caused by an unsupportive work environment?",
+        "Output Response": "Focus on areas you can control, like setting personal goals or creating a positive routine outside work. Document concerns and, if possible, discuss issues with HR or a manager."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What are some quick ways to calm down when Im overwhelmed?",
+        "Output Response": "Try a grounding exercise, like focusing on five things you can see, four you can touch, three you can hear, two you can smell, and one you can taste. Deep breathing also works well."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "How do I deal with stress when I feel like Im letting people down?",
+        "Output Response": "Remind yourself that youre doing your best and communicate openly with those involved. Sometimes, setting realistic expectations with others can reduce the pressure you feel."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "What role does hydration play in managing stress?",
+        "Output Response": "Dehydration can amplify stress. Drinking enough water helps maintain physical and mental balance. Keep a water bottle handy and aim to stay hydrated throughout the day."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Can creative activities help reduce stress?",
+        "Output Response": "Yes, creative activities like drawing, writing, or playing music provide an outlet for emotions and promote relaxation. Even simple doodling can help you unwind."
+    },
+    {
+        "Category": "Stress Management",
+        "Input Text": "Whats a good way to manage stress from time-sensitive deadlines?",
+        "Output Response": "Break your work into small, timed segments and tackle the most urgent tasks first. Avoid multitasking and focus on one thing at a time to reduce feelings of overwhelm."
+    }
+]
