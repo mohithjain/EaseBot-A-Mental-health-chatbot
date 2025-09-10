@@ -87,9 +87,7 @@ It uses user_info.json for storing age and user details, and tailors responses f
 This chatbot is designed only as a companion and not a replacement for professional help.
 If you are experiencing severe mental health issues, please consult a certified mental health professional.
 
-## 👨‍💻 Author
+## 👨‍💻 Developers
 
-- [Mohith Jain](https://github.com/mohithjain) <a href="https://github.com/mohithjain">
-  <img src="https://avatars.githubusercontent.com/u/136469790?v=4" width="50;" style="border-radius:50%"/>
-</a>
+- [Mohith Jain](https://github.com/mohithjain) 
 - [Manvi Sharma](https://github.com/ManviSharma04)
