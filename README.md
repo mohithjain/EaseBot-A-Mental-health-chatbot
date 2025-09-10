@@ -44,3 +44,8 @@ cd EaseBot-A-Mental-health-chatbot
 
 # Pull large model files tracked by LFS
 git lfs pull
+
+### 2. Set up the environment
+> Make sure you have Python 3.8+ installed. Then install the dependencies:
+```bash
+pip install -r requirements.txt
