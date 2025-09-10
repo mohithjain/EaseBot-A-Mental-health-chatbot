@@ -39,7 +39,8 @@ Unlike generic bots, EaseBot is **trained on age-specific and emotion-focused da
 
 ### 1️⃣ Clone the Repository  
 
-> ⚠️ This repo uses **Git LFS** for large model files. Install Git LFS before cloning.  
+> ⚠ This repo uses **Git LFS** for large model files.  
+> Please install Git LFS before cloning.  
 
 ```bash
 # Install Git LFS (if not already installed)
@@ -53,32 +54,41 @@ cd EaseBot-A-Mental-health-chatbot
 
 # Pull large model files tracked by LFS
 git lfs pull
+```
 ###2️⃣ Set Up the Environment
 
-Make sure you have Python 3.8+ installed. Then install dependencies:
-pip install -r requirements.txt
+Make sure you have Python 3.8+ installed. Then install the dependencies:
+```bash
+#pip install -r requirements.txt
+```
 
-3️⃣ Run the Chatbot
+###3️⃣ Run the Chatbot
 
-Launch EaseBot in your terminal:
-
+To launch the chatbot in the terminal:
+```bash
 python chatbot_terminal.py
+```
+The bot will then start interacting with you.
+It uses user_info.json for storing age and user details, and tailors responses for the 19–25 age group.
 
+💡 Features
 
-The bot will:
+🧑‍🤝‍🧑 Age-based customization (19–25 age group)
 
-Ask for your age and details (stored in user_info.json).
+🤖 Emotion-aware responses trained on mental health datasets
 
-Provide customized, empathetic responses for the 19–25 age group.
+💬 Terminal-based interaction (no GUI required)
 
-🧩 Tech Stack in One Line
+📊 Feedback loop to capture user feedback and improve responses
 
-Python | Hugging Face Transformers | JSON Datasets | Git LFS
+⚡ Fine-tuned model with Hugging Face Transformers
 
 ⚠ Disclaimer
 
-EaseBot is designed as a companion and not a replacement for professional mental health help.
+This chatbot is designed only as a companion and not a replacement for professional help.
 If you are experiencing severe mental health issues, please consult a certified mental health professional.
 
+👨‍💻 Author
 
-
+Manvi Sharma
+Mohith Jain
