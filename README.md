@@ -82,6 +82,28 @@ It uses user_info.json for storing age and user details, and tailors responses f
 
 ⚡ Fine-tuned model with Hugging Face Transformers
 
+## 🖥️ Demo
+
+Here’s how EaseBot looks in the terminal:
+
+![Chatbot Demo](assets/chatbot_demo.png)
+
+![Chatbot Conversation Flow](assets/response.png)
+
+
+## 📊 Model Performance
+
+Below are some training results:
+
+- **Accuracy over epochs**
+
+![Accuracy Plot](assets/accuracy_plot.png)
+
+- **Loss curve**
+
+![Loss Curve](assets/loss_curve.png)
+
+
 ## ⚠ Disclaimer
 
 This chatbot is designed only as a companion and not a replacement for professional help.
