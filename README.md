@@ -89,5 +89,5 @@ If you are experiencing severe mental health issues, please consult a certified 
 
 ## 👨‍💻 Author
 
-Manvi Sharma
-Mohith Jain
+- Manvi Sharma   
+- Mohith Jain
