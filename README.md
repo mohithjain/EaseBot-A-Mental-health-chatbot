@@ -88,7 +88,7 @@ Here’s how EaseBot looks in the terminal:
 
 ![Chatbot Demo](assets/chatbot_demo.png)
 
-![Chatbot Conversation Flow](assets/response.png)
+![Chatbot Conversation Flow](assets/resoponse.png)
 
 
 ## 📊 Model Performance
