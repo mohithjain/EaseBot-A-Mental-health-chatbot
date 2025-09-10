@@ -61,7 +61,7 @@ Make sure you have Python 3.8+ installed. Then install the dependencies:
 ```bash
 #pip install -r requirements.txt
 ```
-3️⃣ Run the Chatbot
+### 3️⃣ Run the Chatbot
 
 To launch the chatbot in the terminal:
 ```bash
@@ -70,7 +70,7 @@ python chatbot_terminal.py
 The bot will then start interacting with you.
 It uses user_info.json for storing age and user details, and tailors responses for the 19–25 age group.
 
-💡 Features
+### 💡 Features
 
 🧑‍🤝‍🧑 Age-based customization (19–25 age group)
 
@@ -82,12 +82,12 @@ It uses user_info.json for storing age and user details, and tailors responses f
 
 ⚡ Fine-tuned model with Hugging Face Transformers
 
-⚠ Disclaimer
+### ⚠ Disclaimer
 
 This chatbot is designed only as a companion and not a replacement for professional help.
 If you are experiencing severe mental health issues, please consult a certified mental health professional.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Manvi Sharma
 Mohith Jain
