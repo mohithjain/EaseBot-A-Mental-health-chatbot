@@ -1,0 +1,11 @@
+```txt
+torch
+transformers
+datasets
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+sentencepiece
+protobuf
