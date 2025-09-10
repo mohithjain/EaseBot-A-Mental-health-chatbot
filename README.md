@@ -21,20 +21,18 @@ Unlike generic bots, EaseBot is **trained on age-specific and emotion-focused da
 
 ## 📂 Repository Structure  
 
-EaseBot-A-Mental-health-chatbot/
+📂 EaseBot-A-Mental-health-chatbot/
 │
-├── datasets/ # JSON datasets categorized by age & emotions
-├── feedback_data/ # Stores user feedback data
-├── finetuned_model/ # Trained model files (stored via Git LFS)
-├── finetuning_results/ # Training checkpoints & results (via Git LFS)
-├── scripts/ # Helper scripts (training, evaluation, visualization)
+├── 📂 datasets/ # JSON datasets categorized by age & emotions
+├── 📂 feedback_data/ # Stores user feedback data
+├── 📂 finetuned_model/ # Trained model files (stored via Git LFS)
+├── 📂 finetuning_results/ # Training checkpoints & results (via Git LFS)
+├── 📂 scripts/ # Helper scripts (training, evaluation, visualization)
 │
-├── chatbot_terminal.py # Main entry point to run the chatbot
-├── user_info.json # Stores user-specific details
-├── .gitattributes # Git LFS tracking configuration
-├── requirements.txt # Python dependencies
-
-
+├── 🐍 chatbot_terminal.py # Main entry point to run the chatbot
+├── 📝 user_info.json # Stores user-specific details
+├── ⚙️ .gitattributes # Git LFS tracking configuration
+├── 📄 requirements.txt # Python dependencies
 ---
 
 ## 🚀 Getting Started  
