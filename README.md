@@ -91,3 +91,7 @@ If you are experiencing severe mental health issues, please consult a certified 
 
 - [Mohith Jain](https://github.com/mohithjain) 
 - [Manvi Sharma](https://github.com/ManviSharma04)
+- <a href="https://github.com/mohithjain">
+  <img src="https://avatars.githubusercontent.com/u/https://avatars.githubusercontent.com/u/136469790?v=4" width="80;" style="border-radius:50%"/>
+</a>
+https://avatars.githubusercontent.com/u/136469790?v=4
